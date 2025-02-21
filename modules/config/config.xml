@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	
+	<Civilizations>
+		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ZHOU_CHINA" CivilizationName="LOC_CIVILIZATION_ZHOU_CHINA_NAME" CivilizationFullName="LOC_CIVILIZATION_ZHOU_CHINA_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_ZHOU_CHINA_DESCRIPTION" CivilizationIcon="civ_sym_zhou.png"/>
+
+	</Civilizations>
+	<CivilizationItems>
+
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ZHOU_CHINA" Type="TRAIT_ZHOU_CHINA_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_ZHOU_CHINA_ABILITY_NAME" Description="LOC_TRAIT_ZHOU_CHINA_ABILITY_DESCRIPTION"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ZHOU_CHINA" Type="UNIT_ZHOU_CHARIOT" Kind="KIND_UNIT" Name="LOC_UNIT_ZHOU_CHARIOT_NAME" Description="LOC_UNIT_ZHOU_CHARIOT_BASE_DESCRIPTION" Icon="ICON_UNIT_ZHOU_CHARIOT"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ZHOU_CHINA" Type="UNIT_ZHOU_THINKER" Kind="KIND_UNIT" Name="LOC_UNIT_ZHOU_THINKER_NAME" Description="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" Icon="ICON_UNIT_ZHOU_THINKER"/>
+
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ZHOU_CHINA" Type="QUARTER_ZHOU_CAIYI" Kind="KIND_QUARTER" Name="LOC_QUARTER_ZHOU_CAIYI_NAME" Description="LOC_QUARTER_ZHOU_CAIYI_DESCRIPTION" Icon="city_uniquequarter"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ZHOU_CHINA" Type="BUILDING_BIYONG" Kind="KIND_BUILDING" Name="LOC_BUILDING_BIYONG_NAME" Description="LOC_BUILDING_BIYONG_DESCRIPTION" Icon="ICON_BUILDING_BIYONG"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ZHOU_CHINA" Type="BUILDING_ZONGMIAO" Kind="KIND_BUILDING" Name="LOC_BUILDING_ZONGMIAO_NAME" Description="LOC_BUILDING_ZONGMIAO_DESCRIPTION" Icon="ICON_BUILDING_ZONGMIAO"/>
+
+		
+	</CivilizationItems>
+	<CivilizationTags>
+
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ZHOU_CHINA" TagType="TAG_TRAIT_POLITICAL"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ZHOU_CHINA" TagType="TAG_TRAIT_CULTURAL"/>
+
+	</CivilizationTags>
+	<LeaderCivilizationBias>
+		<!--This is the table used for UI, the AI uses LeaderCivPriorities in civilizations.xml-->
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ZHOU_CHINA" LeaderDomain="StandardLeaders" LeaderType="LEADER_CONFUCIUS" Bias="4" ReasonType="LOC_UNLOCK_PLAY_AS_CONFUCIUS_HAN_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
+
+	</LeaderCivilizationBias>
+
+
+</Database>

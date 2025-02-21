@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+
+    <Types>
+		
+		<Row Type="UNIT_ZHOU_CHARIOT" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ZHOU_CHARIOT_2" Kind="KIND_UNIT"/>
+
+        <Row Type="UNIT_ZHOU_THINKER" Kind="KIND_UNIT"/>
+
+		<Row Type="UNIT_ZHOU_THINKER_LAOZI" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ZHOU_THINKER_MENCIUS" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ZHOU_THINKER_MOZI" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ZHOU_THINKER_SHANG_YANG" Kind="KIND_UNIT"/>
+
+		<Row Type="UNIT_ZHOU_THINKER_GONGSUN_LONG" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ZHOU_THINKER_ZOU_YAN" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ZHOU_THINKER_GUIGUZI" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ZHOU_THINKER_LV_BUWEI" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ZHOU_THINKER_XU_XING" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ZHOU_THINKER_SUN_WU" Kind="KIND_UNIT"/>
+
+		<Row Type="ABILITY_ZHOU_CHARIOT" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NARRATIVE_STRENGTH_ZHOU_THINKER_SUN_WU" Kind="KIND_ABILITY"/>
+		
+	</Types>
+	<Units>
+		<Row UnitType="UNIT_ZHOU_CHARIOT" Name="LOC_UNIT_ZHOU_CHARIOT_NAME" Description="LOC_UNIT_ZHOU_CHARIOT_DESCRIPTION" Tier="2" Maintenance="1" BaseSightRange="2" BaseMoves="4" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_ZHOU_CHINA"/>
+		<Row UnitType="UNIT_ZHOU_CHARIOT_2" Name="LOC_UNIT_ZHOU_CHARIOT_NAME" Description="LOC_UNIT_ZHOU_CHARIOT_2_DESCRIPTION" Tier="3" Maintenance="2" BaseSightRange="2" BaseMoves="4" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_ZHOU_CHINA"/>
+
+		<Row UnitType="UNIT_ZHOU_THINKER" Name="LOC_UNIT_ZHOU_THINKER_NAME" Description="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" BaseSightRange="1" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="30" TraitType="TRAIT_ZHOU_CHINA"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_LAOZI" Name="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_LAOZI_NAME" Description="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" BaseSightRange="1" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="30" TraitType="TRAIT_ZHOU_CHINA" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_MENCIUS" Name="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MENCIUS_NAME" Description="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" BaseSightRange="1" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="30" TraitType="TRAIT_ZHOU_CHINA" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_MOZI" Name="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MOZI_NAME" Description="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" BaseSightRange="1" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="30" TraitType="TRAIT_ZHOU_CHINA" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_SHANG_YANG" Name="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SHANG_YANG_NAME" Description="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" BaseSightRange="1" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="30" TraitType="TRAIT_ZHOU_CHINA" CanTrain="false" CanPurchase="false"/>
+
+		<Row UnitType="UNIT_ZHOU_THINKER_GONGSUN_LONG" Name="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_GONGSUN_LONG_NAME" Description="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" BaseSightRange="1" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="30" TraitType="TRAIT_ZHOU_CHINA" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_ZOU_YAN" Name="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_ZOU_YAN_NAME" Description="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" BaseSightRange="1" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="30" TraitType="TRAIT_ZHOU_CHINA" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_GUIGUZI" Name="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_GUIGUZI_NAME" Description="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" BaseSightRange="1" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="30" TraitType="TRAIT_ZHOU_CHINA" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_LV_BUWEI" Name="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_LV_BUWEI_NAME" Description="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" BaseSightRange="1" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="30" TraitType="TRAIT_ZHOU_CHINA" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_XU_XING" Name="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_XU_XING_NAME" Description="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" BaseSightRange="1" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="30" TraitType="TRAIT_ZHOU_CHINA" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_SUN_WU" Name="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SUN_WU_NAME" Description="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" BaseSightRange="1" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="30" TraitType="TRAIT_ZHOU_CHINA" CanTrain="false" CanPurchase="false"/>
+
+	
+    </Units>
+	<Unit_Stats>
+		
+		<Row UnitType="UNIT_ZHOU_CHARIOT" Combat="35"/>
+		<Row UnitType="UNIT_ZHOU_CHARIOT_2" Combat="40"/>
+		
+	</Unit_Stats>
+	<Unit_Costs>
+		
+		<Row UnitType="UNIT_ZHOU_CHARIOT" YieldType="YIELD_PRODUCTION" Cost="70"/>
+		<Row UnitType="UNIT_ZHOU_CHARIOT_2" YieldType="YIELD_PRODUCTION" Cost="110"/>
+		
+		<Row UnitType="UNIT_ZHOU_THINKER" YieldType="YIELD_PRODUCTION" Cost="30"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_LAOZI" YieldType="YIELD_PRODUCTION" Cost="30"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_MENCIUS" YieldType="YIELD_PRODUCTION" Cost="30"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_MOZI" YieldType="YIELD_PRODUCTION" Cost="30"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_SHANG_YANG" YieldType="YIELD_PRODUCTION" Cost="30"/>
+
+		<Row UnitType="UNIT_ZHOU_THINKER_GONGSUN_LONG" YieldType="YIELD_PRODUCTION" Cost="30"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_ZOU_YAN" YieldType="YIELD_PRODUCTION" Cost="30"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_GUIGUZI" YieldType="YIELD_PRODUCTION" Cost="30"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_LV_BUWEI" YieldType="YIELD_PRODUCTION" Cost="30"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_XU_XING" YieldType="YIELD_PRODUCTION" Cost="30"/>
+		<Row UnitType="UNIT_ZHOU_THINKER_SUN_WU" YieldType="YIELD_PRODUCTION" Cost="30"/>
+		
+	</Unit_Costs>
+	<UnitUpgrades>
+		
+		<Row Unit="UNIT_ZHOU_CHARIOT" UpgradeUnit="UNIT_ZHOU_CHARIOT_2"/>
+		
+	</UnitUpgrades>
+	<UnitReplaces>
+		<!-- Civ Unique Military -->
+		
+		<Row CivUniqueUnitType="UNIT_ZHOU_CHARIOT" ReplacesUnitType="UNIT_CHARIOT"/>
+		<Row CivUniqueUnitType="UNIT_ZHOU_CHARIOT_2" ReplacesUnitType="UNIT_HORSEMAN"/>
+		
+	</UnitReplaces>
+	<Unit_TransitionRetains>
+		
+	</Unit_TransitionRetains>
+	<AiUnitEfficiencyBonuses>
+		
+	</AiUnitEfficiencyBonuses>
+	<Tags>
+		
+		<Row Tag="UNIT_CLASS_ZHOU_CHARIOT" Category="UNIT_CLASS"/>
+
+		<Row Tag="UNIT_CLASS_ZHOU_THINKER" Category="UNIT_CLASS"/>
+		
+	</Tags>
+	<TypeTags>
+		
+		<Row Type="UNIT_ZHOU_CHARIOT" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_ZHOU_CHARIOT" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_ZHOU_CHARIOT" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_ZHOU_CHARIOT" Tag="UNIT_CLASS_ZHOU_CHARIOT"/>
+        
+		<Row Type="UNIT_ZHOU_CHARIOT_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_ZHOU_CHARIOT_2" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_ZHOU_CHARIOT_2" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_ZHOU_CHARIOT_2" Tag="UNIT_CLASS_ZHOU_CHARIOT"/>
+		<Row Type="UNIT_ZHOU_CHARIOT_2" Tag="UNIT_CLASS_ELITE_CAVALRY"/>
+		
+		<Row Type="UNIT_ZHOU_THINKER" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ZHOU_THINKER" Tag="UNIT_CLASS_ZHOU_THINKER"/>
+
+		<Row Type="UNIT_ZHOU_THINKER_LAOZI" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ZHOU_THINKER_LAOZI" Tag="UNIT_CLASS_ZHOU_THINKER"/>
+		<Row Type="UNIT_ZHOU_THINKER_MENCIUS" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ZHOU_THINKER_MENCIUS" Tag="UNIT_CLASS_ZHOU_THINKER"/>
+		<Row Type="UNIT_ZHOU_THINKER_MOZI" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ZHOU_THINKER_MOZI" Tag="UNIT_CLASS_ZHOU_THINKER"/>
+		<Row Type="UNIT_ZHOU_THINKER_SHANG_YANG" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ZHOU_THINKER_SHANG_YANG" Tag="UNIT_CLASS_ZHOU_THINKER"/>
+
+		<!-- new -->
+		<Row Type="UNIT_ZHOU_THINKER_GONGSUN_LONG" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ZHOU_THINKER_ZOU_YAN" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ZHOU_THINKER_GUIGUZI" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ZHOU_THINKER_LV_BUWEI" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ZHOU_THINKER_XU_XING" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ZHOU_THINKER_SUN_WU" Tag="UNIT_CLASS_GREATPERSON"/>
+
+		<Row Type="UNIT_ZHOU_THINKER_GONGSUN_LONG" Tag="UNIT_CLASS_ZHOU_THINKER"/>
+		<Row Type="UNIT_ZHOU_THINKER_ZOU_YAN" Tag="UNIT_CLASS_ZHOU_THINKER"/>
+		<Row Type="UNIT_ZHOU_THINKER_GUIGUZI" Tag="UNIT_CLASS_ZHOU_THINKER"/>
+		<Row Type="UNIT_ZHOU_THINKER_LV_BUWEI" Tag="UNIT_CLASS_ZHOU_THINKER"/>
+		<Row Type="UNIT_ZHOU_THINKER_XU_XING" Tag="UNIT_CLASS_ZHOU_THINKER"/>
+		<Row Type="UNIT_ZHOU_THINKER_SUN_WU" Tag="UNIT_CLASS_ZHOU_THINKER"/>
+		
+		
+	</TypeTags>
+	<UnitClass_Abilities>
+        <Row UnitAbilityType="ABILITY_ZHOU_CHARIOT" UnitClassType="UNIT_CLASS_ZHOU_CHARIOT"/>
+		
+		
+	</UnitClass_Abilities>
+	<UnitAbilities>
+        <Row UnitAbilityType="ABILITY_ZHOU_CHARIOT" Name="LOC_ABILITY_ZHOU_CHARIOT_NAME" Description="LOC_ABILITY_ZHOU_CHARIOT_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NARRATIVE_STRENGTH_ZHOU_THINKER_SUN_WU" Name="LOC_ABILITY_NARRATIVE_STRENGTH_ZHOU_THINKER_SUN_WU_NAME" Description="LOC_ABILITY_NARRATIVE_STRENGTH_ZHOU_THINKER_SUN_WU_DESCRIPTION" Inactive="true"/>
+		
+	</UnitAbilities>
+	<UnitAbilityModifiers>
+        <Row UnitAbilityType="ABILITY_ZHOU_CHARIOT" ModifierId="ZHOU_CHARIOT_MOD_ADJUST_UNIT_COMBAT_STRENGTH"/>
+		<Row UnitAbilityType="ABILITY_NARRATIVE_STRENGTH_ZHOU_THINKER_SUN_WU" ModifierId="ZHOU_THINKER_SUN_WU_MOD_NARRATIVE_ADJUST_UNIT_COMBAT_STRENGTH"/>
+		
+	</UnitAbilityModifiers>
+	<ChargedUnitAbilities>
+
+	</ChargedUnitAbilities>
+	<!-- Advisory Attributes -->
+	<Unit_Advisories>
+		
+		<Row UnitType="UNIT_ZHOU_CHARIOT" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_ZHOU_CHARIOT_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		
+		<Row UnitType="UNIT_ZHOU_THINKER" AdvisoryClassType="ADVISORY_CLASS_CULTURE"/>
+	</Unit_Advisories>
+
+</Database>

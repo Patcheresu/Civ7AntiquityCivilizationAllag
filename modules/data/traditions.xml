@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Kinds>
+		<InsertOrIgnore Kind="KIND_TRADITION"/>
+	</Kinds>
+	<Types>
+		<!-- ==================================================	-->
+		<!--	ANTIQUITY							-->
+		<!-- ==================================================	-->
+		
+		<!-- Han -->
+		<Row Type="TRADITION_JING_TIAN" Kind="KIND_TRADITION"/>
+		<Row Type="TRADITION_ZONG_FA" Kind="KIND_TRADITION"/>
+		<Row Type="TRADITION_ZHU_ZI_BAI_JIA" Kind="KIND_TRADITION"/>
+		
+	</Types>
+
+	<Traditions>
+		<!-- ==================================================	-->
+		<!--	ANTIQUITY							-->
+		<!-- ==================================================	-->
+		
+		<!-- Han -->
+		<Row TraditionType="TRADITION_JING_TIAN" Name="LOC_TRADITION_JING_TIAN_NAME" Description="LOC_TRADITION_JING_TIAN_DESCRIPTION" TraitType="TRAIT_ZHOU_CHINA" AgeType="AGE_ANTIQUITY"/>
+		<Row TraditionType="TRADITION_ZONG_FA" Name="LOC_TRADITION_ZONG_FA_NAME" Description="LOC_TRADITION_ZONG_FA_DESCRIPTION" TraitType="TRAIT_ZHOU_CHINA" AgeType="AGE_ANTIQUITY"/>
+		<Row TraditionType="TRADITION_ZHU_ZI_BAI_JIA" Name="LOC_TRADITION_ZHU_ZI_BAI_JIA_NAME" Description="LOC_TRADITION_ZHU_ZI_BAI_JIA_DESCRIPTION" TraitType="TRAIT_ZHOU_CHINA" AgeType="AGE_ANTIQUITY"/>
+		
+	</Traditions>
+	<TraditionModifiers>
+		<!-- ==================================================	-->
+		<!--	ANTIQUITY							-->
+		<!-- ==================================================	-->
+		
+		<!-- Han -->
+		<Row TraditionType="TRADITION_JING_TIAN" ModifierId="JING_TIAN_MOD_FARM_GOLD"/>
+		<Row TraditionType="TRADITION_JING_TIAN" ModifierId="JING_TIAN_MOD_FARM_FOOD"/>
+		<Row TraditionType="TRADITION_JING_TIAN" ModifierId="JING_TIAN_MOD_PLANTATION_GOLD"/>
+		<Row TraditionType="TRADITION_JING_TIAN" ModifierId="JING_TIAN_MOD_PLANTATION_FOOD"/>
+
+
+		<Row TraditionType="TRADITION_ZONG_FA" ModifierId="ZONG_FA_MOD_CITIES_ATTACH"/>
+		<Row TraditionType="TRADITION_ZONG_FA" ModifierId="ZONG_FA_MOD_TOWNS_ATTACH"/>
+
+		<Row TraditionType="TRADITION_ZHU_ZI_BAI_JIA" ModifierId="ZHU_ZI_BAI_JIA_MOD_GREATPERSON_PRODUCTION"/>
+		
+	</TraditionModifiers>
+</Database>

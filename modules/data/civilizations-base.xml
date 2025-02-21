@@ -1,0 +1,13 @@
+<Database>
+	<Types>
+
+		<Row Type="TRAIT_ZHOU_CHINA" Kind="KIND_TRAIT"/>
+
+	</Types>
+
+	<Traits>
+		
+		<Row TraitType="TRAIT_ZHOU_CHINA" InternalOnly="true"/>
+		
+	</Traits>
+</Database>

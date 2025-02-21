@@ -1,0 +1,729 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+
+    <!-- city names -->
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA1" Language="zh_Hans_CN">
+      <Text>镐京</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA10" Language="zh_Hans_CN">
+      <Text>虞</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA11" Language="zh_Hans_CN">
+      <Text>吴</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA12" Language="zh_Hans_CN">
+      <Text>郑</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA13" Language="zh_Hans_CN">
+      <Text>随</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA14" Language="zh_Hans_CN">
+      <Text>鲁</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA15" Language="zh_Hans_CN">
+      <Text>邢</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA16" Language="zh_Hans_CN">
+      <Text>蔡</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA17" Language="zh_Hans_CN">
+      <Text>曹</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA18" Language="zh_Hans_CN">
+      <Text>赵</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA19" Language="zh_Hans_CN">
+      <Text>洛</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA2" Language="zh_Hans_CN">
+      <Text>卫</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA20" Language="zh_Hans_CN">
+      <Text>骊戎</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA21" Language="zh_Hans_CN">
+      <Text>宿</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA22" Language="zh_Hans_CN">
+      <Text>楚</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA23" Language="zh_Hans_CN">
+      <Text>召</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA24" Language="zh_Hans_CN">
+      <Text>燕</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA25" Language="zh_Hans_CN">
+      <Text>魏</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA26" Language="zh_Hans_CN">
+      <Text>韩</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA27" Language="zh_Hans_CN">
+      <Text>晋</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA28" Language="zh_Hans_CN">
+      <Text>虢</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA29" Language="zh_Hans_CN">
+      <Text>齐</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA3" Language="zh_Hans_CN">
+      <Text>申</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA30" Language="zh_Hans_CN">
+      <Text>许</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA4" Language="zh_Hans_CN">
+      <Text>陈</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA5" Language="zh_Hans_CN">
+      <Text>杞</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA6" Language="zh_Hans_CN">
+      <Text>越</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA7" Language="zh_Hans_CN">
+      <Text>宋</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA8" Language="zh_Hans_CN">
+      <Text>箕子朝鲜</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA9" Language="zh_Hans_CN">
+      <Text>秦</Text>
+    </Replace>
+
+    <!-- citizen names -->
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_1" Language="zh_Hans_CN">
+      <Text>太姜</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_10" Language="zh_Hans_CN">
+      <Text>太妊</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_2" Language="zh_Hans_CN">
+      <Text>太姒</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_3" Language="zh_Hans_CN">
+      <Text>邑姜</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_4" Language="zh_Hans_CN">
+      <Text>定姜</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_5" Language="zh_Hans_CN">
+      <Text>孟母</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_6" Language="zh_Hans_CN">
+      <Text>息君夫人</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_7" Language="zh_Hans_CN">
+      <Text>晋文齐姜</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_8" Language="zh_Hans_CN">
+      <Text>许穆夫人</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_9" Language="zh_Hans_CN">
+      <Text>齐伤槐女</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_1" Language="zh_Hans_CN">
+      <Text>孔子</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_10" Language="zh_Hans_CN">
+      <Text>孟子</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_2" Language="zh_Hans_CN">
+      <Text>荀子</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_3" Language="zh_Hans_CN">
+      <Text>老子</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_4" Language="zh_Hans_CN">
+      <Text>庄子</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_5" Language="zh_Hans_CN">
+      <Text>墨子</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_6" Language="zh_Hans_CN">
+      <Text>孙武</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_7" Language="zh_Hans_CN">
+      <Text>邹衍</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_8" Language="zh_Hans_CN">
+      <Text>苏秦</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_9" Language="zh_Hans_CN">
+      <Text>许行</Text>
+    </Replace>
+
+    <!-- civilization -->
+    <Replace Tag="LOC_CIVILIZATION_ZHOU_CHINA_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>周朝</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ZHOU_CHINA_FULLNAME" Language="zh_Hans_CN">
+      <Text>周朝</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ZHOU_CHINA_NAME" Language="zh_Hans_CN">
+      <Text>周朝</Text>
+    </Replace>
+
+    
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+      <Text>周族是居于今陕甘黄土高原、渭水流域一带的古老部族，相传因“姬水”而得姓为姬。相传周的始祖名弃，为有邰氏女姜嫄所生，因善于耕种，也被称为后稷。周人的祖先大概是从羌人中分化出来的一支。商朝初年，后稷的后代公刘率族人从邰迁到磁。周人早期居于陕西武功一带，到公刘时，周部落则已迁居于豳。由耕牧部族渐变为农耕为主的城邑。自公刘起，又经九世传位，到古公亶父为部族首领时，周人受薰育戎侵袭逼迫，不得不迁徙。他们越过漆、沮和梁山，迁至渭河流域岐山以南之周原。 </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+      <Text>周原物产丰富，土地肥沃，灌溉便利，农耕条件优越，经济发展快速。迁到周原以后，周人成为大邑商的臣民，并且接受了商朝的文化和文字。古公亶父传位季历，季历不仅与商朝贵族联姻，还被商王文丁封为“牧师”，成为商王朝在西方最为重要的一位方伯。周此时已是商朝属下一强大方国。虽然关系密切，商王朝却总是时刻提防着这股新生力量。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+      <Text>西伯姬昌继位后，国力不足与商对抗，故继续臣服于商，为商西伯。但殷商对周并不放心。商纣一度囚禁姬昌于羑里，并杀其子作为肉汤、迫文王喝下。周人以宝马、美女贿赂帝辛，求得释放文王。文王归国后，谋商之心并无松懈。他一方面增强周族实力，使周国附近一些部落归附。另一方面进行武力扩张。在讨伐密须，崇国等国家后，迁都于丰都（今陕西省西安市户县沣河西岸），准备进取殷商。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+      <Text>文王薨，次子姬发即位称周武王，在沣河东岸又建镐京，丰镐二京隔水相望，有桥相连，并称丰镐城。周武王姬发带领周与各诸侯联军会盟于孟津（今河南孟津），公元前11世纪，率戎车三百，虎贲三千，甲士四万五千与商朝十七万军队大战于牧野（今河南汲县）。周武王伐纣，牧野之战中前徒倒戈， 周军大胜，商纣王于鹿台身背珠宝玉器自焚。商朝亡，因为周部族到古公亶父时迁居于周原，武王灭殷以后，就以“周”为朝代名，周朝立。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+      <Text>西周初年，周天子通过“封邦建国”，册封同姓、前代帝王之后和功臣到各地建立诸侯国，同时又通过对天子权力和诸侯义务的一系列规定，形成天子和诸侯之间的权力分配和运行机制。此外，西周王朝制定并实施了一整套等级礼制，强化封建体系下各级政权之间的等级隶属关系，从而建立起“礼乐征伐自天子出”的礼治秩序。西周诸侯国受封建国后，实行与西周王朝统一的社会制度，包括分封制、宗法制、井田制、国野制等。西周天子与诸侯君臣关系的确立，诸侯国政权同周王室之间隶属关系的加强，统一的礼治秩序的形成，标志着中国历史上一个新型的国家政体——大一统国家政体初步形成。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+      <Text>公元前770年，周平王东迁定都洛邑（今河南洛阳），标志着东周的开始。自东周开始，周朝由强转弱，王室日益衰微，大权旁落。诸侯国之间互相征伐，战争频繁。小诸侯国纷纷被吞并，强大的诸侯国在局部地区实现了统一，并取得霸主地位。公元前453年，韩、赵、魏推翻智氏，三家分晋。公元前403年，周威烈王册封三晋为诸侯；公元前386年，田和列为诸侯，战国七雄的格局正式形成。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+      <Text>随着水利的兴修，铁器的使用和牛耕的推广，商业和货币的发展，春秋中后期，各诸侯国的经济得到发展，政治形势也产生了相应的变化。诸侯国内部卿大夫的势力逐渐发展起来。这些发展也使社会结构发生了变化。世袭的等级制度被瓦解，一些过去的贵族失去了地位，而另一些那个时候的平民通过经商或其他的机会致富，甚至成为政治集团中举足轻重的人物。官僚制度发生了变化。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_8" Language="zh_Hans_CN">
+      <Text>面对这种礼崩乐坏和社会大变革，各个诸侯国纷纷变法和招贤纳士。代表各阶级、各阶层，各派政治力量的学者或思想家，都企图按照本阶级（层）或本集团的利益和要求，对宇宙对社会对万事万物作出解释，或提出主张。他们著书立说，广收门徒，高谈阔论，互相诘难，于是出现了思想领域里“百家争鸣”的局面。</Text>
+    </Replace>
+
+
+    <Replace Tag="LOC_TRAIT_ZHOU_CHINA_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>[LIST][LI][B]文化值建筑[/B]从[B]城区[/B]获得[B]+2[icon:YIELD_CULTURE]文化值[/B]和[B]+2[icon:YIELD_HAPPINESS]幸福值相邻加成[/B]。[LI]建造[B]未央宫[/B]时[B]+30%[icon:YIELD_PRODUCTION]生产力效用[/B]。[/LIST]</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_ZHOU_CHINA_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>周礼</Text>
+    </Replace>
+
+    <Replace Tag="LOC_MOD_ZHOU_CULTURE_BUILDING_URBAN_CULTURE_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>文化值建筑从城区获得+2[icon:YIELD_CULTURE]文化值相邻加成。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ZHOU_CULTURE_BUILDING_URBAN_HAPPINESS_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>文化值建筑从城区获得+2[icon:YIELD_HAPPINESS]幸福值相邻加成。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_ZHOU_CHINA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>作为周朝的关联奇观，+30%[icon:YIELD_PRODUCTION]生产力。</Text>
+    </Replace>
+
+    <!-- buildings -->
+    <Replace Tag="LOC_BUILDING_BIYONG_NAME" Language="zh_Hans_CN">
+      <Text>辟雍</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BIYONG_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>+3[icon:YIELD_CULTURE]文化值。奇观+1[icon:YIELD_CULTURE]文化值相邻加成。此城市生产远程和骑兵单位时+15%[icon:YIELD_PRODUCTION]生产力效用。周朝特色文化值建筑。无时代限制。 </Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BIYONG_TOOLTIP" Language="zh_Hans_CN">
+      <Text>所在城市生产远程和骑兵单位时+15%[icon:YIELD_PRODUCTION]生产力效用。周朝特色文化值建筑。无时代限制。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_ZONGMIAO_NAME" Language="zh_Hans_CN">
+      <Text>宗庙</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_ZONGMIAO_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>+3[icon:YIELD_HAPPINESS]幸福值。城区和奇观+1[icon:YIELD_DIPLOMACY]影响力相邻加成。周朝特色幸福值建筑。无时代限制。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_ZONGMIAO_TOOLTIP" Language="zh_Hans_CN">
+      <Text>周朝特色幸福值建筑。无时代限制。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_BIYONG_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+      <Text>辟雍又称为大学，是从先秦延续到明清的一项重要的礼制建筑。据《汉书·郊祀志》载：“周公相成王，王道大洽，制礼作乐，天子曰明堂、辟雍，诸侯曰泮宫。”据文献记载，辟雍应是一处中间为岛屿（建有主体建筑），四周以水环绕的建筑群，其样子看起来像玉璧。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_BIYONG_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+      <Text>辟雍作为西周时期重要的礼制建筑和宫廷教育设施，主要有以下几个特点：第一，西周辟雍建设在郊区，四周有水池环绕，中间高地建有厅堂式的草屋，附近有广大的园林。园林中有鸟兽集居，水池中有鱼龟集居。第二，西周辟雍不仅是贵族子弟学习之处，也是贵族成员行礼、集会、聚餐、练武、奏乐之处，兼有礼堂、会议室、俱乐部和运动场的性质，实际上就是当时贵族公共活动包括体育运动的场所。第三，西周辟雍的教学内容以礼乐和射为主，西周是礼制社会，学习礼乐是贵族日常生活的一部分。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_BUILDING_ZONGMIAO_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+      <Text>宗庙，是天子或诸侯祭祀祖先的场所。《礼记·王制》记载：“天子七庙，三昭三穆，与大祖之庙而七。诸侯五庙，二昭二穆，与大祖之庙而五。大夫三庙，一昭一穆，与大祖之庙而三。士一庙。庶人祭于寝。” 后世学者认为，此记载是根据战国秦汉时期的近亲宗族组织及宗庙制度向前推论的，因此不符合西周春秋时期的庙制和近亲宗族制度。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_QUARTER_ZHOU_CAIYI_NAME" Language="zh_Hans_CN">
+      <Text>采邑</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_ZHOU_CAIYI_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>周朝特色城区。建造方法是将辟雍和宗庙放置在同一个区块中。城市中的专家+1[icon:YIELD_CULTURE]文化值。</Text>
+    </Replace>
+    <Replace Tag="LOC_QUARTER_ZHOU_CAIYI_TOOLTIP" Language="zh_Hans_CN">
+      <Text>城市中的专家+1[icon:YIELD_CULTURE]文化值。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_ZHOU_CAIYI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+      <Text>西周王室封建诸侯有畿内、畿外之别，受封于王畿内的卿大夫食采，“采邑就是王畿之内的诸侯国”，受封于王畿外者就国，“以藩屏周”。采邑和封国的受封对象、性质、权利与义务等虽有差别，但都是西周分封制的重要组成部分。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_ZHOU_CAIYI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+      <Text>西周晚期至春秋前期，周室衰微，“礼乐征伐自诸侯出”，各诸侯强国通过兼并和扩张，所辖领地大增，它们纷纷效法周室，在各自境内分封授采，采邑制逐渐成为各国普遍施行的一种政治制度。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_ZHOU_CAIYI_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+      <Text>秦统一后，确立郡县制，接受封爵的主要是功臣，虽仍有封邑，但在封邑内没有统治权，以所征的赋税作为俸禄。封邑大小按户数计算，由嫡长子世袭。</Text>
+    </Replace>
+
+    <!-- rivers -->
+    <Replace Tag="LOC_RIVER_ZHOU_JING_NAME" Language="zh_Hans_CN">
+      <Text>泾水</Text>
+    </Replace>  
+    <Replace Tag="LOC_RIVER_ZHOU_WEI_NAME" Language="zh_Hans_CN">
+      <Text>渭水</Text>
+    </Replace>  
+
+    <!-- units -->
+    <Replace Tag="LOC_UNIT_ZHOU_CHARIOT_NAME" Language="zh_Hans_CN">
+      <Text>元戎战车</Text>
+    </Replace>    
+    <Replace Tag="LOC_UNIT_ZHOU_CHARIOT_BASE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>周朝特色骑兵单位。移动力更高。对抗独立势力时+5战斗力。无视控制区。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ZHOU_CHARIOT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>第2阶周朝特色骑兵单位。移动力更高。对抗独立势力时+5战斗力。无视控制区。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ZHOU_CHARIOT_2_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>第3阶周朝特色骑兵单位。移动力更高。对抗独立势力时+5战斗力。无视控制区。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_ZHOU_CHARIOT_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+      <Text>周朝时期，使用马匹拉动的战车成为了战场的主角，战车的数量亦是计算各诸侯国军力的计算单位。车战也常见于周朝时期的诗歌。在《诗经》的《小雅·六月》中，记载了周朝军队使用元戎战车击败北方入侵玁狁的战绩。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_ABILITY_ZHOU_CHARIOT_NAME" Language="zh_Hans_CN">
+      <Text>攘夷</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ZHOU_CHARIOT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>对抗独立势力时+5战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ZHOU_CHARIOT_PREVIEW" Language="zh_Hans_CN">
+      <Text>与独立势力对战时+{1_Value}战斗力。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_ABILITY_NARRATIVE_STRENGTH_ZHOU_THINKER_SUN_WU_NAME" Language="zh_Hans_CN">
+      <Text>孙武治军</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NARRATIVE_STRENGTH_ZHOU_THINKER_SUN_WU_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>+3战斗力</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NARRATIVE_STRENGTH_ZHOU_THINKER_SUN_WU_PREVIEW" Language="zh_Hans_CN">
+      <Text>+{1_Amount} 来自孙武治军</Text>
+    </Replace>
+    
+
+    <Replace Tag="LOC_UNIT_ZHOU_THINKER_NAME" Language="zh_Hans_CN">
+      <Text>思想家</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>使用次数为1的伟人。只能在拥有图书馆的城市中生产，随机获得特定的思想家。每位思想家只能获得一次。每获得一位思想家后，生产费用将有所增加。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_ZHOU_THINKER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+      <Text>诸子，指的是中国先秦时期管子、孔子、墨子、老子、庄子、孟子、荀子等学术思想的代表人物；百家，指的是儒家、道家、墨家、名家、法家等各个学术流派的代表家。春秋后期已出现颇有社会影响的法家、道家、儒家、墨家、阴阳家等不同学派，而至战国中期，许多学派纷呈，众多学说丰富多彩，为中国文化发展奠定了宽广的基础，中国术语上把这一时期称为诸子百家或百家争鸣时期。</Text>
+    </Replace>
+
+    <!-- copy from han great people -->
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_LAOZI_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_LAOZI_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_LAOZI_TAO_ZHOU_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_GREATWORK_LAOZI_TAO_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_LAOZI_TAO_ZHOU_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>2幸福值</Text>
+    </Replace>
+
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MENCIUS_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_MENCIUS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MENCIUS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_MENCIUS_DESCRIPTION}</Text>
+    </Replace>
+
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MOZI_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_MOZI_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MOZI_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_MOZI_DESCRIPTION}</Text>
+    </Replace>
+
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SHANG_YANG_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_SHANG_YANG_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SHANG_YANG_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_SHANG_YANG_DESCRIPTION}</Text>
+    </Replace>
+
+    <!-- new great people -->
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_GONGSUN_LONG_NAME" Language="zh_Hans_CN">
+      <Text>公孙龙</Text>
+    </Replace>
+
+    <Replace Tag="LOC_GREATWORK_GONGSUN_LONG_GSLZ_ZHOU_NAME" Language="zh_Hans_CN">
+      <Text>《公孙龙子》</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_GONGSUN_LONG_GSLZ_ZHOU_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>2文化值</Text>
+    </Replace>
+
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_ZOU_YAN_NAME" Language="zh_Hans_CN">
+      <Text>邹衍</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_ZOU_YAN_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在图书馆上激活，为建筑+3[icon:YIELD_CULTURE]文化值。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_GUIGUZI_NAME" Language="zh_Hans_CN">
+      <Text>鬼谷子</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_GUIGUZI_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在图书馆上激活，立即获得150[icon:YIELD_DIPLOMACY]影响力（标准速度下）。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_LV_BUWEI_NAME" Language="zh_Hans_CN">
+      <Text>吕不韦</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_LV_BUWEI_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在宫殿上激活，为建筑+6[icon:YIELD_GOLD]金币。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_XU_XING_NAME" Language="zh_Hans_CN">
+      <Text>许行</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_XU_XING_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在市中心激活，为此城市的所有乡村地块+2[icon:YIELD_FOOD]食物。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SUN_WU_NAME" Language="zh_Hans_CN">
+      <Text>孙武</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SUN_WU_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在军队指挥官上激活，为其提供1次免费晋升。</Text>
+    </Replace>
+    
+
+
+    <!-- civics -->
+    <Replace Tag="LOC_TREE_CIVICS_AQ_ZHOU_CHINA_NAME" Language="zh_Hans_CN">
+      <Text>周朝市政</Text>
+    </Replace>
+
+    <Replace Tag="LOC_CIVIC_FEN_FENG_NAME" Language="zh_Hans_CN">
+      <Text>分封制</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_FEN_FENG_QUOTE" Language="zh_Hans_CN">
+      <Text>“选建明德，以蕃屏周。”</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_FEN_FENG_QUOTE_AUTHOR" Language="zh_Hans_CN">
+      <Text>《左传》</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ZHOU_FEN_FENG_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+      <Text>分封制又称封邦建国（封土建国），是西周的政治制度，分封的目的是为了巩固周王朝的统治，分封的对象和做法是把王族、功臣和先代的贵族分封到各地去做诸侯，建立诸侯国；被封诸侯的义务是：要服从周王的命令，要向周王贡献财物，要派兵随从周王作战。分封制巩固了西周的统治，拓展了疆域。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ZHOU_FEN_FENG_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+      <Text>井田制是中国西周时期的土地国有制，开始实行于商朝，盛行于西周，瓦解于春秋，废除于战国。井田的土地所有权属于周王，周王把土地分赐给诸侯臣下，但臣下只能世代享用，不得转让和自由买卖，还要交纳一定的贡赋。井田制是分封制的经济基础，分封制是与之相适应的上层建筑。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_CIVIC_ZONG_FA_NAME" Language="zh_Hans_CN">
+      <Text>宗法制</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_ZONG_FA_QUOTE" Language="zh_Hans_CN">
+      <Text>“立適以长不以贤，立子以贵不以长。”</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_ZONG_FA_QUOTE_AUTHOR" Language="zh_Hans_CN">
+      <Text>《公羊传》</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ZHOU_ZONG_FA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+      <Text>宗法制，是古代维护贵族世袭统治的一种制度。是由氏族社会父系家长制演变而来的，是王族贵族按血缘关系分配国家权力，以便建立世袭统治的一种制度。其特点是宗族组织和国家组织合二为一，宗法等级和政治等级完全一致。</Text>
+    </Replace>
+      <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ZHOU_ZONG_FA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+      <Text>此制度确立于夏朝，发展于商朝，完备于周朝，影响于后来的各王朝。按照周代的宗法制度，宗族中分为大宗和小宗。周王自称天子，称为天下的大宗。天子的除嫡长子以外的其他儿子被封为诸侯。诸侯对天子而言是小宗，但在他的封国内却是大宗。诸侯的其它儿子被分封为卿大夫。卿大夫对诸侯而言是小宗，但在他的采邑内却是大宗。从卿大夫到士也是如此。因此贵族的嫡长子总是不同等级的大宗（宗子）。大宗不仅享有对宗族成员的统治权，而且享有政治上的特权。后来，各王朝的统治者对宗法制度加以改造，逐渐建立了由政权、族权、神权、夫权组成的封建宗法制。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_CIVIC_LI_YUE_NAME" Language="zh_Hans_CN">
+      <Text>礼乐制</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_LI_YUE_QUOTE" Language="zh_Hans_CN">
+      <Text>“礼也者，反其所自生；乐也者，乐其所自成。是故先王之制礼也以节事，修乐以道志。故观其礼乐，而治乱可知也。”</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_LI_YUE_QUOTE_AUTHOR" Language="zh_Hans_CN">
+      <Text>《礼记》</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ZHOU_LI_YUE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+      <Text>礼乐制是周代文化的集中体现，它既是典章制度的总汇，又是人们各种行为的准则。周武王灭商后，西周统治者为巩固自己的统治，建立稳定的政治制度，支撑周朝天下的有四大制度：封建制（分封制）、井田制、宗法制、礼乐制。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_CIVIC_BAI_JIA_ZHENG_MING_NAME" Language="zh_Hans_CN">
+      <Text>百家争鸣</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_BAI_JIA_ZHENG_MING_QUOTE" Language="zh_Hans_CN">
+      <Text>“诸子十家，其可观者九家而已。皆起于王道既微，诸侯力政，时君世主，好恶殊方，是以九家之术蜂出并作，各引一端，崇其所善，以此驰说，取合诸侯。”</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_BAI_JIA_ZHENG_MING_QUOTE_AUTHOR" Language="zh_Hans_CN">
+      <Text>《汉书》</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ZHOU_BAI_JIA_ZHENG_MING_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+      <Text>春秋战国时代，社会急剧变化，许多问题亟待解决。至战国时期，社会产生了各种思想流派，如儒、法、道、墨等，他们著书讲学，互相论战，出现了学术上的繁荣景象，后世称为百家争鸣。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_MOD_AQ_ZHOU_FEN_FENG_SETTLEMENT_CAP_INCREASE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>+2定居点上限。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_AQ_ZHOU_LI_YUE_CAPITAL_CULTURE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>首都10%[icon:YIELD_CULTURE]文化值。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_AQ_ZHOU_BJZM_LIBRARY_DIPLOMACY_YIELD_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>图书馆+1[icon:YIELD_DIPLOMACY]影响力。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_AQ_ZHOU_BJZM_LIBRARY_SCIENCE_YIELD_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>图书馆+1[icon:YIELD_SCIENCE]科技值。</Text>
+    </Replace>
+
+    <!-- traditions -->
+    <Replace Tag="LOC_TRADITION_JING_TIAN_NAME" Language="zh_Hans_CN">
+      <Text>井田制</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_JING_TIAN_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>农场和种植园+2[icon:YIELD_FOOD]食物+2[icon:YIELD_GOLD]金币。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_TRADITION_ZONG_FA_NAME" Language="zh_Hans_CN">
+      <Text>宗法制</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_ZONG_FA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>首都之外的每座城市为首都城市+4%[icon:YIELD_PRODUCTION]生产力，每座城镇为首都+4%[icon:YIELD_GOLD]金币。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_TRADITION_ZHU_ZI_BAI_JIA_NAME" Language="zh_Hans_CN">
+      <Text>诸子百家</Text>
+    </Replace>
+    <Replace Tag="LOC_TRADITION_ZHU_ZI_BAI_JIA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>建造伟人单位时+50%[icon:YIELD_PRODUCTION]生产力效用。</Text>
+    </Replace>
+
+
+    <!-- config -->
+    <Replace Tag="LOC_CIVILIZATION_ZHOU_CHINA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>文化值建筑从城区获得+2[icon:YIELD_CULTURE]文化值和+2[icon:YIELD_HAPPINESS]幸福值相邻加成。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_ZHOU_CHINA" Language="zh_Hans_CN">
+      <Text>周朝（公元前1046年—公元前256年）是由周武王姬发建立的王朝，中国历史上继商朝之后的第三个奴隶制国家。分为西周（公元前1046年—公元前771年）与东周（公元前770年—公元前256年）两个时期，凡790年，共经历37个君王。</Text>
+    </Replace>
+	  <Replace Tag="LOC_LOADING_INTRO_ZHOU_CHINA" Language="zh_Hans_CN">
+      <Text>西周是中华文明进程中十分关键的时期，以分封制、宗法制、礼乐制为特征的文明形态，以周天子为核心的天下共主的国家结构，进一步强化了夏商以来的中央集权制度，为秦汉统一多民族国家的形成奠定了坚实基础。</Text>
+    </Replace>
+
+	
+	  <Replace Tag="LOC_UNLOCK_PLAY_AS_ZHOU_CHINA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>扮演[B]周朝[/B]。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_ZHOU_CHINA_MING_TOOLTIP" Language="zh_Hans_CN">
+      <Text>[B]周朝[/B]是[B]明朝[/B]诞生前的当地文明。</Text>
+    </Replace>
+    
+    <!-- story -->
+    <Replace Tag="LOC_12522A_COMPLETION" Language="zh_Hans_CN">
+      <Text>{LOC_8122A_COMPLETION}</Text>
+    </Replace>
+    <Replace Tag="LOC_12522A_STORYTITLE" Language="zh_Hans_CN">
+      <Text>{LOC_8122A_STORYTITLE}</Text>
+    </Replace>
+    <Replace Tag="LOC_12522B_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{LOC_8122B_DESCRIPTION}</Text>
+    </Replace>
+    <Replace Tag="LOC_12522B_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_8122B_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_12522C_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{LOC_8122C_DESCRIPTION}</Text>
+    </Replace>
+    <Replace Tag="LOC_12522C_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_8122C_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_12523A_COMPLETION" Language="zh_Hans_CN">
+      <Text>{LOC_8123A_COMPLETION}</Text>
+    </Replace>
+    <Replace Tag="LOC_12523A_STORYTITLE" Language="zh_Hans_CN">
+      <Text>{LOC_8123A_STORYTITLE}</Text>
+    </Replace>
+    <Replace Tag="LOC_12523B_COMPLETION" Language="zh_Hans_CN">
+      <Text>{LOC_8123B_COMPLETION}</Text>
+    </Replace>
+    <Replace Tag="LOC_12523B_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{LOC_8123B_DESCRIPTION}</Text>
+    </Replace>
+    <Replace Tag="LOC_12523B_IMPERATIVE" Language="zh_Hans_CN">
+      <Text>{LOC_8123B_IMPERATIVE}</Text>
+    </Replace>
+    <Replace Tag="LOC_12523B_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_8123B_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_12523B_STORYTITLE" Language="zh_Hans_CN">
+      <Text>{LOC_8123B_STORYTITLE}</Text>
+    </Replace>
+    <Replace Tag="LOC_12523C_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{LOC_8123C_DESCRIPTION}</Text>
+    </Replace>
+    <Replace Tag="LOC_12523C_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_8123C_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_12524A_COMPLETION" Language="zh_Hans_CN">
+      <Text>{LOC_8124A_COMPLETION}</Text>
+    </Replace>
+    <Replace Tag="LOC_12524A_STORYTITLE" Language="zh_Hans_CN">
+      <Text>{LOC_8124A_STORYTITLE}</Text>
+    </Replace>
+    <Replace Tag="LOC_12524B_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{LOC_8124B_DESCRIPTION}</Text>
+    </Replace>
+    <Replace Tag="LOC_12524B_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_8124B_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_12524C_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{LOC_8124C_DESCRIPTION}</Text>
+    </Replace>
+    <Replace Tag="LOC_12524C_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_8124C_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_12525A_COMPLETION" Language="zh_Hans_CN">
+      <Text>{LOC_8125A_COMPLETION}</Text>
+    </Replace>
+    <Replace Tag="LOC_12525A_STORYTITLE" Language="zh_Hans_CN">
+      <Text>{LOC_8125A_STORYTITLE}</Text>
+    </Replace>
+    <Replace Tag="LOC_12525B_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{LOC_8125B_DESCRIPTION}</Text>
+    </Replace>
+    <Replace Tag="LOC_12525B_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_8125B_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_12525C_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{LOC_8125C_DESCRIPTION}</Text>
+    </Replace>
+    <Replace Tag="LOC_12525C_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_8125C_NAME}</Text>
+    </Replace>
+
+    <!-- new stories -->
+    <Replace Tag="LOC_12526A_COMPLETION" Language="zh_Hans_CN">
+      <Text>一位学者想拜公孙龙为师，但是对他的“白马非马”的学说提出了质疑。公孙龙陷入了沉思，应该怎么回复这位学者呢？</Text>
+    </Replace>
+    <Replace Tag="LOC_12526A_STORYTITLE" Language="zh_Hans_CN">
+      <Text>白马非马</Text>
+    </Replace>
+    <Replace Tag="LOC_12526B_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>马资源+4[icon:YIELD_HAPPINESS]幸福值</Text>
+    </Replace>
+    <Replace Tag="LOC_12526B_NAME" Language="zh_Hans_CN">
+      <Text>白马当然不是马。</Text>
+    </Replace>
+    <Replace Tag="LOC_12526C_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>马资源+4[icon:YIELD_HAPPINESS]幸福值</Text>
+    </Replace>
+    <Replace Tag="LOC_12526C_NAME" Language="zh_Hans_CN">
+      <Text>白马是马有点不可能。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_12527A_COMPLETION" Language="zh_Hans_CN">
+      <Text>国君听说邹衍善于言天事，因而召见并寻求他的知识。邹衍应该讲述什么样的知识呢？</Text>
+    </Replace>
+    <Replace Tag="LOC_12527A_STORYTITLE" Language="zh_Hans_CN">
+      <Text>谈天衍</Text>
+    </Replace>
+    <Replace Tag="LOC_12527B_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>探路者视野+1</Text>
+    </Replace>
+    <Replace Tag="LOC_12527B_NAME" Language="zh_Hans_CN">
+      <Text>讲述九州之说。</Text>
+    </Replace>
+    <Replace Tag="LOC_12527C_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{1_reward}。</Text>
+    </Replace>
+    <Replace Tag="LOC_12527C_NAME" Language="zh_Hans_CN">
+      <Text>讲述阴阳五行之说。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_12528A_COMPLETION" Language="zh_Hans_CN">
+      <Text>鬼谷子知识渊博，涉猎广泛。他看着自己的学生，犹豫要教给学生什么样的知识。</Text>
+    </Replace>
+    <Replace Tag="LOC_12528A_STORYTITLE" Language="zh_Hans_CN">
+      <Text>鬼谷授业</Text>
+    </Replace>
+    <Replace Tag="LOC_12528B_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>发起外交努力时+30%[icon:YIELD_DIPLOMACY]影响力效用</Text>
+    </Replace>
+    <Replace Tag="LOC_12528B_NAME" Language="zh_Hans_CN">
+      <Text>应该教给学生合纵之术。</Text>
+    </Replace>
+    <Replace Tag="LOC_12528C_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>发起外交制裁时+30%[icon:YIELD_DIPLOMACY]影响力效用</Text>
+    </Replace>
+    <Replace Tag="LOC_12528C_NAME" Language="zh_Hans_CN">
+      <Text>应该教给学生连横之术。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_12529A_COMPLETION" Language="zh_Hans_CN">
+      <Text>吕不韦外出做生意时，见到了一位作为质子的王孙，他敏锐的商业嗅觉告诉他，这位贵族就像一件奇货，可以囤积居奇，以待高价售出。</Text>
+    </Replace>
+    <Replace Tag="LOC_12529A_STORYTITLE" Language="zh_Hans_CN">
+      <Text>奇货可居</Text>
+    </Replace>
+    <Replace Tag="LOC_12529B_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{1_reward}。</Text>
+    </Replace>
+    <Replace Tag="LOC_12529B_NAME" Language="zh_Hans_CN">
+      <Text>与贵族合谋大事。</Text>
+    </Replace>
+    <Replace Tag="LOC_12529C_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>购买建筑时+20%[icon:YIELD_GOLD]金币效用</Text>
+    </Replace>
+    <Replace Tag="LOC_12529C_NAME" Language="zh_Hans_CN">
+      <Text>还是回去做正经生意吧。</Text>
+    </Replace>
+
+     <Replace Tag="LOC_12530A_COMPLETION" Language="zh_Hans_CN">
+      <Text>在朝堂上，一位学者向许行提出了一个尖锐的问题——作为国君，是否应该拥有储藏粮食的仓廪和存放钱财的府库？他感觉很多双眼睛正紧盯着自己。</Text>
+    </Replace>
+    <Replace Tag="LOC_12530A_STORYTITLE" Language="zh_Hans_CN">
+      <Text>君民并耕</Text>
+    </Replace>
+    <Replace Tag="LOC_12530B_COMPLETION" Language="zh_Hans_CN">
+      <Text>许行虽然迫于权势，不得不曲意迎合国君。但之后他仍然坚持自己的主张，身体力行耕种土地，并且呼吁把农产品与其他商品公平交易。</Text>
+    </Replace>
+    <Replace Tag="LOC_12530B_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{1_reward}。</Text>
+    </Replace>
+    <Replace Tag="LOC_12530B_IMPERATIVE" Language="zh_Hans_CN">
+      <Text>在{1_turn_timer}内拥有2座粮仓。</Text>
+    </Replace>
+    <Replace Tag="LOC_12530B_NAME" Language="zh_Hans_CN">
+      <Text>国君应该拥有仓廪和府库。</Text>
+    </Replace>
+    <Replace Tag="LOC_12530B_STORYTITLE" Language="zh_Hans_CN">
+      <Text>许行的变通与坚持</Text>
+    </Replace>
+    <Replace Tag="LOC_12530C_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>所有城市+10%发展率</Text>
+    </Replace>
+    <Replace Tag="LOC_12530C_NAME" Language="zh_Hans_CN">
+      <Text>国君应该亲自参加耕种。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_12531A_COMPLETION" Language="zh_Hans_CN">
+      <Text>孙武应国君的要求，以军队的方式来操练宫女。他审视着面前不听号令的宫女，他应该坚持原则处死两位队长，还是看在国君的面子上略过此节？</Text>
+    </Replace>
+    <Replace Tag="LOC_12531A_STORYTITLE" Language="zh_Hans_CN">
+      <Text>孙武训女兵</Text>
+    </Replace>
+    <Replace Tag="LOC_12531B_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>军事单位+3战斗力</Text>
+    </Replace>
+    <Replace Tag="LOC_12531B_NAME" Language="zh_Hans_CN">
+      <Text>军队应该令行禁止，赏罚分明。</Text>
+    </Replace>
+    <Replace Tag="LOC_12531C_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>{1_reward}。</Text>
+    </Replace>
+    <Replace Tag="LOC_12531C_NAME" Language="zh_Hans_CN">
+      <Text>赦免宫女。</Text>
+    </Replace>
+
+  </LocalizedText>
+</Database>

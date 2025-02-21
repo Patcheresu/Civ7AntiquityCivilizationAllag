@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+
+    <Modifier id="12522B_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_CONSTRUCTIBLE_YIELD" run-once="false" permanent="true">
+        <Argument name="YieldType">YIELD_SCIENCE</Argument>
+        <Argument name="Amount" type="ScaleByGameAge" extra="100">2</Argument>
+        <Argument name="ConstructibleType">BUILDING_LIBRARY</Argument>
+    </Modifier>
+    <Modifier id="12522C_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_CONSTRUCTIBLE_YIELD" run-once="false" permanent="true">
+        <Argument name="YieldType">YIELD_CULTURE</Argument>
+        <Argument name="Amount" type="ScaleByGameAge" extra="100">2</Argument>
+        <Argument name="ConstructibleType">BUILDING_MONUMENT</Argument>
+    </Modifier>
+    <Modifier id="12523B_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_CONSTRUCTIBLE_YIELD" run-once="false" permanent="true">
+        <Argument name="YieldType">YIELD_SCIENCE</Argument>
+        <Argument name="Amount" type="ScaleByGameAge" extra="100">2</Argument>
+        <Argument name="ConstructibleType">BUILDING_LIBRARY</Argument>
+    </Modifier>
+    <Modifier id="12523C_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_YIELD_NARRATIVE" run-once="false" permanent="true">
+        <Argument name="YieldType">YIELD_HAPPINESS</Argument>
+        <Argument name="MultiplierType">REWARD_TYPE_MINOR_LATE</Argument>
+    </Modifier>
+    <Modifier id="12524B_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD" run-once="false" permanent="true">
+        <Argument name="YieldType">YIELD_PRODUCTION</Argument>
+        <Argument name="Amount" type="ScaleByGameAge" extra="100">1</Argument>
+    </Modifier>
+    <Modifier id="12524C_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD" run-once="false" permanent="true">
+        <Argument name="YieldType">YIELD_FOOD</Argument>
+        <Argument name="Amount" type="ScaleByGameAge" extra="100">1</Argument>
+    </Modifier>
+    <Modifier id="12525B_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_YIELD_NARRATIVE" run-once="false" permanent="true">
+        <Argument name="YieldType">YIELD_GOLD</Argument>
+        <Argument name="MultiplierType">REWARD_TYPE_MINOR_LATE</Argument>
+    </Modifier>
+    <Modifier id="12525C_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_YIELD_NARRATIVE" run-once="false" permanent="true">
+        <Argument name="YieldType">YIELD_DIPLOMACY</Argument>
+        <Argument name="MultiplierType">REWARD_TYPE_MINOR_LATE</Argument>
+    </Modifier>
+
+    <!-- 新伟人事件 -->
+    <!-- 公孙龙 -->
+    <Modifier id="12526B_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_PLOT_YIELDS" effect="EFFECT_PLOT_ADJUST_YIELD" run-once="false" permanent="true">
+        <SubjectRequirements>
+            <Requirement type="REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES">
+                <Argument name="ResourceType">RESOURCE_HORSES</Argument>
+            </Requirement>
+        </SubjectRequirements>
+        <Argument name="YieldType">YIELD_HAPPINESS</Argument>
+        <Argument name="Amount">4</Argument>
+    </Modifier>
+    <Modifier id="12526C_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_PLOT_YIELDS" effect="EFFECT_PLOT_ADJUST_YIELD" run-once="false" permanent="true">
+        <SubjectRequirements>
+            <Requirement type="REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES">
+                <Argument name="ResourceType">RESOURCE_HORSES</Argument>
+            </Requirement>
+        </SubjectRequirements>
+        <Argument name="YieldType">YIELD_HAPPINESS</Argument>
+        <Argument name="Amount">4</Argument>
+    </Modifier>
+
+    <!-- 邹衍 -->
+    <Modifier id="12527B_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_ADJUST_UNIT_SIGHT">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_RECON</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">1</Argument>
+	</Modifier>
+    <Modifier id="12527C_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_CONSTRUCTIBLE_YIELD" run-once="false" permanent="true">
+        <Argument name="YieldType">YIELD_HAPPINESS</Argument>
+        <Argument name="Amount" type="ScaleByGameAge" extra="100">6</Argument>
+        <Argument name="ConstructibleType">BUILDING_PALACE</Argument>
+    </Modifier>
+
+    <!-- 鬼谷子 -->
+    <Modifier id="12528B_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_DIPLOMACY_ADJUST_DIPLOMATIC_ACTION_TYPE_EFFICIENCY">
+		<Argument name="ActionGroupType">DIPLOMACY_ACTION_GROUP_ENDEAVOR</Argument>
+		<Argument name="Percent">30</Argument>
+	</Modifier>
+    <Modifier id="12528C_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_DIPLOMACY_ADJUST_DIPLOMATIC_ACTION_TYPE_EFFICIENCY">
+		<Argument name="ActionGroupType">DIPLOMACY_ACTION_GROUP_SANCTION</Argument>
+		<Argument name="Percent">30</Argument>
+	</Modifier>
+
+    <!-- 吕不韦 -->
+    <Modifier id="12529B_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_CONSTRUCTIBLE_YIELD" run-once="false" permanent="true">
+        <Argument name="YieldType">YIELD_DIPLOMACY</Argument>
+        <Argument name="Amount" type="ScaleByGameAge" extra="100">4</Argument>
+        <Argument name="ConstructibleType">BUILDING_PALACE</Argument>
+    </Modifier>
+    <Modifier id="12529C_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_ADJUST_PLAYER_OR_CITY_BUILDING_PURCHASE_EFFICIENCY">
+		<Argument name="Percent">20</Argument>
+	</Modifier>
+
+    <!-- 许行 -->
+    <Modifier id="12530B_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_YIELD_NARRATIVE" run-once="false" permanent="true">
+        <Argument name="YieldType">YIELD_DIPLOMACY</Argument>
+        <Argument name="MultiplierType">REWARD_TYPE_MINOR_LATE</Argument>
+    </Modifier>
+    <Modifier id="12530C_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_GROWTH">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_IS_CITY"></Requirement>
+		</SubjectRequirements>
+		<Argument name="Percent">10</Argument>
+	</Modifier>
+
+    <!-- 孙武 -->
+    <Modifier id="12531B_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY" run-once="false" permanent="true">
+        <SubjectRequirements>
+            <Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+                <Argument name="Tag">UNIT_CLASS_COMBAT</Argument>
+            </Requirement>
+        </SubjectRequirements>
+        <Argument name="AbilityType">ABILITY_NARRATIVE_STRENGTH_ZHOU_THINKER_SUN_WU</Argument>
+    </Modifier>
+    <Modifier id="12531C_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_YIELD_NARRATIVE" run-once="false" permanent="true">
+        <Argument name="YieldType">YIELD_GOLD</Argument>
+        <Argument name="MultiplierType">REWARD_TYPE_MEDIUM_LATE</Argument>
+    </Modifier>
+
+
+    <!-- 条件 -->
+    <Requirement id="REQ_STORY_CIVILIZATION_ZHOU_CHINA" type="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES">
+        <Argument name="CivilizationType">CIVILIZATION_ZHOU_CHINA</Argument>
+    </Requirement>
+	
+    <!-- 伟人触发事件条件集 -->
+	<RequirementSet id="REQSET_12522A_NARRATIVE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
+            <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_LAOZI</Argument>
+        </Requirement>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12523A_NARRATIVE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
+            <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MENCIUS</Argument>
+        </Requirement>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12523B_NARRATIVE">
+        <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_BUILDINGS">
+            <Argument name="BuildingType">BUILDING_LIBRARY</Argument>
+            <Argument name="Amount">2</Argument>
+        </Requirement>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12524A_NARRATIVE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
+            <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MOZI</Argument>
+        </Requirement>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12525A_NARRATIVE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
+            <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SHANG_YANG</Argument>
+        </Requirement>
+    </RequirementSet>
+
+    <RequirementSet id="REQSET_12526A_NARRATIVE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
+            <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_GONGSUN_LONG</Argument>
+        </Requirement>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12527A_NARRATIVE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
+            <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_ZOU_YAN</Argument>
+        </Requirement>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12528A_NARRATIVE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
+            <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_GUIGUZI</Argument>
+        </Requirement>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12529A_NARRATIVE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
+            <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_LV_BUWEI</Argument>
+        </Requirement>
+    </RequirementSet>
+
+    <RequirementSet id="REQSET_12530A_NARRATIVE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
+            <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_XU_XING</Argument>
+        </Requirement>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12530B_NARRATIVE">
+        <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_BUILDINGS">
+            <Argument name="BuildingType">BUILDING_GRANARY</Argument>
+            <Argument name="Amount">2</Argument>
+        </Requirement>
+    </RequirementSet>
+
+    <RequirementSet id="REQSET_12531A_NARRATIVE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
+            <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SUN_WU</Argument>
+        </Requirement>
+    </RequirementSet>
+
+
+    <!-- 基础条件集 -->
+    <RequirementSet id="REQSET_12522A_NARRATIVE_REQUISITE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12523A_NARRATIVE_REQUISITE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12524A_NARRATIVE_REQUISITE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12525A_NARRATIVE_REQUISITE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12526A_NARRATIVE_REQUISITE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12527A_NARRATIVE_REQUISITE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12528A_NARRATIVE_REQUISITE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12529A_NARRATIVE_REQUISITE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12530A_NARRATIVE_REQUISITE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+    </RequirementSet>
+    <RequirementSet id="REQSET_12531A_NARRATIVE_REQUISITE">
+        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+    </RequirementSet>
+   
+</GameEffects>

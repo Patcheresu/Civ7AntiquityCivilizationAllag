@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<CivilopediaPageExcludes>
+
+	</CivilopediaPageExcludes>
+
+	<CivilopediaUnitsUniqueUpgrades>
+		<Row BaseUnitType="UNIT_ZHOU_CHARIOT" UpgradeUnitType="UNIT_ZHOU_CHARIOT_2"/>
+
+	</CivilopediaUnitsUniqueUpgrades>
+</Database>

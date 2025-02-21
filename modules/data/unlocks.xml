@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Kinds>
+	
+	</Kinds>
+	<Types>
+	
+	</Types>
+	<Unlocks>
+
+	</Unlocks>
+	<UnlockRewards>
+
+	</UnlockRewards>
+	<RequirementSets>
+		<Row RequirementSetId="REQSET_CIV_IS_ZHOU_CHINA" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+	<Requirements>
+		<Row RequirementId="REQ_CIV_IS_ZHOU_CHINA" RequirementType="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES"/>
+	</Requirements>
+	<RequirementArguments>
+		<Row RequirementId="REQ_CIV_IS_ZHOU_CHINA" Name="CivilizationType" Value="CIVILIZATION_ZHOU_CHINA"/>
+	</RequirementArguments>
+	<RequirementSetRequirements>
+		<Row RequirementSetId="REQSET_CIV_IS_ZHOU_CHINA" RequirementId="REQ_CIV_IS_ZHOU_CHINA"/>
+	</RequirementSetRequirements>
+	<UnlockRequirements>
+		<Row UnlockType="UNLOCK_CIVILIZATION_MING" RequirementSetId="REQSET_CIV_IS_ZHOU_CHINA" Description="LOC_UNLOCK_PLAY_AS_ZHOU_CHINA_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_ZHOU_CHINA_MING_TOOLTIP"/>
+		
+	</UnlockRequirements>
+	<UnlockConfigurationValues>
+
+	</UnlockConfigurationValues>
+</Database>

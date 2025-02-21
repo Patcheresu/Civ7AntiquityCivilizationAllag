@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+		<!--Major Civs -->
+
+		<Row Type="CIVILIZATION_ZHOU_CHINA" Kind="KIND_CIVILIZATION"/>
+
+	</Types>
+	<LegacyCivilizations>
+		<!--Full Civs -->
+		
+		<Row CivilizationType="CIVILIZATION_ZHOU_CHINA" Name="LOC_CIVILIZATION_ZHOU_CHINA_NAME" FullName="LOC_CIVILIZATION_ZHOU_CHINA_FULLNAME" Adjective="LOC_CIVILIZATION_ZHOU_CHINA_ADJECTIVE" Age="AGE_ANTIQUITY"/>
+
+	</LegacyCivilizations>
+	<LegacyCivilizationTraits>
+
+		<Row CivilizationType="CIVILIZATION_ZHOU_CHINA" TraitType="TRAIT_ZHOU_CHINA"/>
+		
+	</LegacyCivilizationTraits>
+	<LegacyLeaderCivPriorities>
+
+		<Row Leader="LEADER_CONFUCIUS" CivilizationType="CIVILIZATION_ZHOU_CHINA"/>
+		
+	</LegacyLeaderCivPriorities>
+</Database>

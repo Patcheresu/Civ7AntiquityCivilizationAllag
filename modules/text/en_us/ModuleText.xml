@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_MODULE_ZHOU_CHINA_NAME">
+			<Text>Antiquity Age Civilization: Zhou</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_ZHOU_CHINA_DESCRIPTION">
+			<Text>Contains a new antiquity age Civilization, the Zhou dynasty of China.</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_ZHOU_CHINA_AUTHOR">
+			<Text>Maple_Leaves</Text>
+		</Row>
+	</EnglishText>
+</Database>

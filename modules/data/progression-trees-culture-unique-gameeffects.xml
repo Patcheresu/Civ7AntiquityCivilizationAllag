@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+	<!-- ==================================================	-->
+	<!--	Zhou							-->
+	<!-- ==================================================	-->
+	<Modifier id="MOD_AQ_ZHOU_FEN_FENG_SETTLEMENT_CAP_INCREASE" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_ADJUST_SETTLEMENT_CAP" permanent="true">
+		<Argument name="Amount">2</Argument>
+		<String context="Description">LOC_MOD_AQ_ZHOU_FEN_FENG_SETTLEMENT_CAP_INCREASE_DESCRIPTION</String>
+	</Modifier>
+
+	<Modifier id="MOD_AQ_ZHOU_LI_YUE_CAPITAL_CULTURE" collection="COLLECTION_PLAYER_CAPITAL_CITY" effect="EFFECT_CITY_ADJUST_YIELD">
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="Percent">10</Argument>
+		<String context="Description">LOC_MOD_AQ_ZHOU_LI_YUE_CAPITAL_CULTURE_DESCRIPTION</String>
+	</Modifier>
+
+	<Modifier id="MOD_AQ_ZHOU_BJZM_LIBRARY_DIPLOMACY_YIELD" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_ADJUST_CONSTRUCTIBLE_YIELD">
+		<Argument name="YieldType">YIELD_DIPLOMACY</Argument>
+		<Argument name="Amount">1</Argument>
+		<Argument name="ConstructibleType">BUILDING_LIBRARY</Argument>
+		<String context="Description">LOC_MOD_AQ_ZHOU_BJZM_LIBRARY_DIPLOMACY_YIELD_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_AQ_ZHOU_BJZM_LIBRARY_SCIENCE_YIELD" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_ADJUST_CONSTRUCTIBLE_YIELD">
+		<Argument name="YieldType">YIELD_SCIENCE</Argument>
+		<Argument name="Amount">1</Argument>
+		<Argument name="ConstructibleType">BUILDING_LIBRARY</Argument>
+		<String context="Description">LOC_MOD_AQ_ZHOU_BJZM_LIBRARY_SCIENCE_YIELD_DESCRIPTION</String>
+	</Modifier>
+
+	
+</GameEffects>

@@ -1,0 +1,29 @@
+<Database>
+
+	<Types>
+		
+		<!-- Great Person Great Works -->
+		<Row Type="GREATWORK_LAOZI_TAO_ZHOU" Kind="KIND_GREATWORK"/>
+
+		<Row Type="GREATWORK_GONGSUN_LONG_GSLZ_ZHOU" Kind="KIND_GREATWORK"/>
+
+	</Types>
+
+	<GreatWorks>
+		
+		<!-- Great Person Great Works -->
+		<Row GreatWorkType="GREATWORK_LAOZI_TAO_ZHOU" GreatWorkObjectType="GREATWORKOBJECT_WRITING" GreatPersonIndividualType="GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_LAOZI" Name="LOC_GREATWORK_LAOZI_TAO_ZHOU_NAME" Description="LOC_GREATWORK_LAOZI_TAO_ZHOU_DESCRIPTION" Generic="false" Image="fs://game/gw_books.png"/>
+
+		<Row GreatWorkType="GREATWORK_GONGSUN_LONG_GSLZ_ZHOU" GreatWorkObjectType="GREATWORKOBJECT_WRITING" GreatPersonIndividualType="GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_GONGSUN_LONG" Name="LOC_GREATWORK_GONGSUN_LONG_GSLZ_ZHOU_NAME" Description="LOC_GREATWORK_GONGSUN_LONG_GSLZ_ZHOU_DESCRIPTION" Generic="false" Image="fs://game/gw_books.png"/>
+</GreatWorks>
+	<GreatWork_YieldChanges>
+		
+		<Row GreatWorkType="GREATWORK_LAOZI_TAO_ZHOU" YieldType="YIELD_HAPPINESS" YieldChange="2"/>
+
+		<Row GreatWorkType="GREATWORK_GONGSUN_LONG_GSLZ_ZHOU" YieldType="YIELD_CULTURE" YieldChange="2"/>
+
+	</GreatWork_YieldChanges>
+	<Constructible_GreatWorks>
+
+	</Constructible_GreatWorks>
+</Database>

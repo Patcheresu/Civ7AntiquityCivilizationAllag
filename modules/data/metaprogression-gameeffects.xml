@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+	<Modifier id="METAPROGRESSION_CHALLENGE_HAN_LEGACY_PATH_SCIENCE_ACHIEVED_ZHOU_CHINA" collection="COLLECTION_OWNER" effect="EFFECT_METAPROGRESSION_COMPLETE_CHALLENGE" permanent="true">
+		<OwnerRequirements>
+			<Requirement type="REQUIREMENT_LEGACY_PATH_COMPLETED">
+				<Argument name="LegacyPathType">LEGACY_PATH_ANTIQUITY_SCIENCE</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES">
+				<Argument name="CivilizationType">CIVILIZATION_ZHOU_CHINA</Argument>
+			</Requirement>
+		</OwnerRequirements>
+		<Argument name="Challenge">CHALLENGE_HAN_LEGACY_PATH_SCIENCE</Argument>
+	</Modifier>
+	
+	<Modifier id="METAPROGRESSION_CHALLENGE_HAN_COMPLETE_WEIYANG_PALACE_ACHIEVED_ZHOU_CHINA" collection="COLLECTION_OWNER" effect="EFFECT_METAPROGRESSION_COMPLETE_CHALLENGE" permanent="true">
+		<OwnerRequirements>
+			<Requirement type="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES">
+				<Argument name="CivilizationType">CIVILIZATION_ZHOU_CHINA</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_PLAYER_SPECIFIC_WONDER_BUILT">
+				<Argument name="ConstructibleType">WONDER_WEIYANG_PALACE</Argument>
+			</Requirement>
+		</OwnerRequirements>
+		<Argument name="Challenge">CHALLENGE_HAN_COMPLETE_WEIYANG_PALACE</Argument>
+	</Modifier>
+	
+	<Modifier id="METAPROGRESSION_CHALLENGE_HAN_LEGACY_PATH_MILESTONE_COMPLETED_ZHOU_CHINA" collection="COLLECTION_OWNER" effect="EFFECT_METAPROGRESSION_COMPLETE_CHALLENGE" permanent="true">
+		<OwnerRequirements>
+			<Requirement type="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES">
+				<Argument name="CivilizationType">CIVILIZATION_ZHOU_CHINA</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_LEGACY_PATH_MILESTONE_COMPLETED" />
+		</OwnerRequirements>
+		<Argument name="Challenge">CHALLENGE_HAN_LEGACY_PATH_MILESTONE_COMPLETED</Argument>
+	</Modifier>
+	
+</GameEffects>

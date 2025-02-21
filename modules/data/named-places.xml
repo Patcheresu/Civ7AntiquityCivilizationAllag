@@ -1,0 +1,18 @@
+<Database>
+	<NamedRiverCivilizations>
+		<Row NamedRiverType="HAI_RIVER" CivilizationType="CIVILIZATION_ZHOU_CHINA"/>
+		<Row NamedRiverType="PEARL_RIVER" CivilizationType="CIVILIZATION_ZHOU_CHINA"/>
+		<Row NamedRiverType="TARIM_RIVER" CivilizationType="CIVILIZATION_ZHOU_CHINA"/>
+		<Row NamedRiverType="WEI_RIVER" CivilizationType="CIVILIZATION_ZHOU_CHINA"/>
+		<Row NamedRiverType="YANGTZE_RIVER" CivilizationType="CIVILIZATION_ZHOU_CHINA"/>
+		<Row NamedRiverType="YELLOW_RIVER" CivilizationType="CIVILIZATION_ZHOU_CHINA"/>
+
+		<Row NamedRiverType="ZHOU_JING_RIVER" CivilizationType="CIVILIZATION_ZHOU_CHINA"/>
+		<Row NamedRiverType="ZHOU_WEI_RIVER" CivilizationType="CIVILIZATION_ZHOU_CHINA"/>
+	</NamedRiverCivilizations>
+	<NamedRivers>
+		<Row NamedRiverType="ZHOU_JING_RIVER" Name="LOC_RIVER_ZHOU_JING_NAME"/>
+		<Row NamedRiverType="ZHOU_WEI_RIVER" Name="LOC_RIVER_ZHOU_WEI_NAME"/>
+
+	</NamedRivers>
+</Database>

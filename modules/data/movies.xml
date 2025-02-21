@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Movies>
+
+	</Movies>
+
+	<EndGameMovies>
+		<!-- Defeats (Civ Specific) -->
+
+		<Row DefeatType="DEFEAT_DEFAULT" CivilizationType="CIVILIZATION_ZHOU_CHINA" Priority="450" MovieType="MOVIE_DEFEAT_HAN" />
+
+		<Row DefeatType="DEFEAT_RETIRE" CivilizationType="CIVILIZATION_ZHOU_CHINA" Priority="460" MovieType="MOVIE_DEFEAT_HAN" />
+
+
+		<!-- Age Transition/Legacy Points Victory -->
+
+		<Row CivilizationType="CIVILIZATION_ZHOU_CHINA" LastCompletedLegacyPath="LEGACY_PATH_ANTIQUITY_ECONOMIC" Priority="200" MovieType="MOVIE_CIVILIZATION_HAN_LEGACY_ECONOMIC" />
+
+		<Row CivilizationType="CIVILIZATION_ZHOU_CHINA" LastCompletedLegacyPath="LEGACY_PATH_ANTIQUITY_MILITARY" Priority="200" MovieType="MOVIE_CIVILIZATION_HAN_LEGACY_MILITARY" />
+		
+		<Row CivilizationType="CIVILIZATION_ZHOU_CHINA" LastCompletedLegacyPath="LEGACY_PATH_ANTIQUITY_SCIENCE" Priority="200" MovieType="MOVIE_CIVILIZATION_HAN_LEGACY_SCIENCE" />
+		
+		<Row CivilizationType="CIVILIZATION_ZHOU_CHINA" LastCompletedLegacyPath="LEGACY_PATH_ANTIQUITY_CULTURE" Priority="200" MovieType="MOVIE_CIVILIZATION_HAN_LEGACY_CULTURE" />
+
+
+	</EndGameMovies>
+</Database>
