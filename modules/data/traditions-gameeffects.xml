@@ -3,7 +3,7 @@
 	<!-- ==================================================	-->
 	<!--	ANTIQUITY							-->
 	<!-- ==================================================	-->
-	<!-- ZHOU -->
+	<!-- ALLAG -->
 	
 	<Modifier id="JING_TIAN_MOD_FARM_GOLD" collection="COLLECTION_PLAYER_PLOT_YIELDS" effect="EFFECT_PLOT_ADJUST_YIELD">
 		<SubjectRequirements>

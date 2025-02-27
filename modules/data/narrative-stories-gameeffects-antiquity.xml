@@ -112,7 +112,7 @@
                 <Argument name="Tag">UNIT_CLASS_COMBAT</Argument>
             </Requirement>
         </SubjectRequirements>
-        <Argument name="AbilityType">ABILITY_NARRATIVE_STRENGTH_ZHOU_THINKER_SUN_WU</Argument>
+        <Argument name="AbilityType">ABILITY_NARRATIVE_STRENGTH_ALLAG_THINKER_SUN_WU</Argument>
     </Modifier>
     <Modifier id="12531C_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_YIELD_NARRATIVE" run-once="false" permanent="true">
         <Argument name="YieldType">YIELD_GOLD</Argument>
@@ -121,23 +121,23 @@
 
 
     <!-- 条件 -->
-    <Requirement id="REQ_STORY_CIVILIZATION_ZHOU_CHINA" type="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES">
-        <Argument name="CivilizationType">CIVILIZATION_ZHOU_CHINA</Argument>
+    <Requirement id="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE" type="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES">
+        <Argument name="CivilizationType">CIVILIZATION_ALLAGAN_EMPIRE</Argument>
     </Requirement>
 	
     <!-- 伟人触发事件条件集 -->
 	<RequirementSet id="REQSET_12522A_NARRATIVE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
         <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
             <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
-            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_LAOZI</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_LAOZI</Argument>
         </Requirement>
     </RequirementSet>
     <RequirementSet id="REQSET_12523A_NARRATIVE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
         <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
             <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
-            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MENCIUS</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_MENCIUS</Argument>
         </Requirement>
     </RequirementSet>
     <RequirementSet id="REQSET_12523B_NARRATIVE">
@@ -147,54 +147,54 @@
         </Requirement>
     </RequirementSet>
     <RequirementSet id="REQSET_12524A_NARRATIVE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
         <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
             <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
-            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MOZI</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_MOZI</Argument>
         </Requirement>
     </RequirementSet>
     <RequirementSet id="REQSET_12525A_NARRATIVE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
         <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
             <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
-            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SHANG_YANG</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_SHANG_YANG</Argument>
         </Requirement>
     </RequirementSet>
 
     <RequirementSet id="REQSET_12526A_NARRATIVE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
         <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
             <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
-            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_GONGSUN_LONG</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_GONGSUN_LONG</Argument>
         </Requirement>
     </RequirementSet>
     <RequirementSet id="REQSET_12527A_NARRATIVE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
         <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
             <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
-            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_ZOU_YAN</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_ZOU_YAN</Argument>
         </Requirement>
     </RequirementSet>
     <RequirementSet id="REQSET_12528A_NARRATIVE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
         <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
             <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
-            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_GUIGUZI</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_GUIGUZI</Argument>
         </Requirement>
     </RequirementSet>
     <RequirementSet id="REQSET_12529A_NARRATIVE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
         <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
             <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
-            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_LV_BUWEI</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_LV_BUWEI</Argument>
         </Requirement>
     </RequirementSet>
 
     <RequirementSet id="REQSET_12530A_NARRATIVE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
         <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
             <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
-            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_XU_XING</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_XU_XING</Argument>
         </Requirement>
     </RequirementSet>
     <RequirementSet id="REQSET_12530B_NARRATIVE">
@@ -205,44 +205,44 @@
     </RequirementSet>
 
     <RequirementSet id="REQSET_12531A_NARRATIVE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
         <Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_GOSSIPS">
             <Argument name="GossipTypes">GOSSIP_ACTIVATE_GREAT_PERSON01</Argument>
-            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SUN_WU</Argument>
+            <Argument name="GOSSIP_ACTIVATE_GREAT_PERSON01">Hash,GreatPersonIndividualType,GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_SUN_WU</Argument>
         </Requirement>
     </RequirementSet>
 
 
     <!-- 基础条件集 -->
     <RequirementSet id="REQSET_12522A_NARRATIVE_REQUISITE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
     </RequirementSet>
     <RequirementSet id="REQSET_12523A_NARRATIVE_REQUISITE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
     </RequirementSet>
     <RequirementSet id="REQSET_12524A_NARRATIVE_REQUISITE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
     </RequirementSet>
     <RequirementSet id="REQSET_12525A_NARRATIVE_REQUISITE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
     </RequirementSet>
     <RequirementSet id="REQSET_12526A_NARRATIVE_REQUISITE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
     </RequirementSet>
     <RequirementSet id="REQSET_12527A_NARRATIVE_REQUISITE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
     </RequirementSet>
     <RequirementSet id="REQSET_12528A_NARRATIVE_REQUISITE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
     </RequirementSet>
     <RequirementSet id="REQSET_12529A_NARRATIVE_REQUISITE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
     </RequirementSet>
     <RequirementSet id="REQSET_12530A_NARRATIVE_REQUISITE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
     </RequirementSet>
     <RequirementSet id="REQSET_12531A_NARRATIVE_REQUISITE">
-        <Requirement xref="REQ_STORY_CIVILIZATION_ZHOU_CHINA"/>
+        <Requirement xref="REQ_STORY_CIVILIZATION_ALLAGAN_EMPIRE"/>
     </RequirementSet>
    
 </GameEffects>

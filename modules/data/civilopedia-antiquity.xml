@@ -5,7 +5,7 @@
 	</CivilopediaPageExcludes>
 
 	<CivilopediaUnitsUniqueUpgrades>
-		<Row BaseUnitType="UNIT_ZHOU_CHARIOT" UpgradeUnitType="UNIT_ZHOU_CHARIOT_2"/>
+		<Row BaseUnitType="UNIT_ALLAG_CHARIOT" UpgradeUnitType="UNIT_ALLAG_CHARIOT_2"/>
 
 	</CivilopediaUnitsUniqueUpgrades>
 </Database>

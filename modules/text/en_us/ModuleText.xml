@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>
 	<EnglishText>
-		<Row Tag="LOC_MODULE_ZHOU_CHINA_NAME">
-			<Text>Antiquity Age Civilization: Zhou</Text>
+		<Row Tag="LOC_MODULE_ALLAGAN_EMPIRE_NAME">
+			<Text>Antiquity Age Civilization: Allag</Text>
 		</Row>
-		<Row Tag="LOC_MODULE_ZHOU_CHINA_DESCRIPTION">
-			<Text>Contains a new antiquity age Civilization, the Zhou dynasty of China.</Text>
+		<Row Tag="LOC_MODULE_ALLAGAN_EMPIRE_DESCRIPTION">
+			<Text>Contains a new antiquity age Civilization, the Allag dynasty of China.</Text>
 		</Row>
-		<Row Tag="LOC_MODULE_ZHOU_CHINA_AUTHOR">
+		<Row Tag="LOC_MODULE_ALLAGAN_EMPIRE_AUTHOR">
 			<Text>Maple_Leaves</Text>
 		</Row>
 	</EnglishText>

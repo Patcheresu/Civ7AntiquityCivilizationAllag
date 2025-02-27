@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="zhou-china" version="1"
+<Mod id="patcheresu-allag-empire" version="1"
 	xmlns="ModInfo">
 	<Properties>
-		<Name>LOC_MODULE_ZHOU_CHINA_NAME</Name>
-		<Description>LOC_MODULE_ZHOU_CHINA_DESCRIPTION</Description>
-		<Authors>LOC_MODULE_ZHOU_CHINA_AUTHOR</Authors>
+		<Name>LOC_MODULE_ALLAGAN_EMPIRE_NAME</Name>
+		<Description>LOC_MODULE_ALLAGAN_EMPIRE_DESCRIPTION</Description>
+		<Authors>LOC_MODULE_ALLAGAN_EMPIRE_AUTHOR</Authors>
 		<Package>MOD</Package>
 	</Properties>
 	<Dependencies>

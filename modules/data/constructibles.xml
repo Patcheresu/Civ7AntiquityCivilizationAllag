@@ -5,7 +5,7 @@
 		<Row Type="BUILDING_BIYONG" Kind="KIND_CONSTRUCTIBLE"/>
         <Row Type="BUILDING_ZONGMIAO" Kind="KIND_CONSTRUCTIBLE"/>
 
-        <Row Type="QUARTER_ZHOU_CAIYI" Kind="KIND_QUARTER"/>
+        <Row Type="QUARTER_ALLAG_CAIYI" Kind="KIND_QUARTER"/>
     </Types>
 
     <Constructibles>
@@ -16,8 +16,8 @@
 	</Constructibles>
 	<Buildings>
 		<!-- Civ Unique Buildings -->
-		<Row ConstructibleType="BUILDING_BIYONG" Movable="false" TraitType="TRAIT_ZHOU_CHINA"/>
-        <Row ConstructibleType="BUILDING_ZONGMIAO" Movable="false" TraitType="TRAIT_ZHOU_CHINA"/>
+		<Row ConstructibleType="BUILDING_BIYONG" Movable="false" TraitType="TRAIT_ALLAGAN_EMPIRE"/>
+        <Row ConstructibleType="BUILDING_ZONGMIAO" Movable="false" TraitType="TRAIT_ALLAGAN_EMPIRE"/>
 
 	</Buildings>
 
@@ -60,28 +60,28 @@
 	</Constructible_Maintenances>
 
 	<Adjacency_YieldChanges>
-		<Row ID="ZhouUrbanCulture" Age="AGE_ANTIQUITY" YieldType="YIELD_CULTURE" YieldChange="2" TilesRequired="1" AdjacentQuarter="true"/>
-        <Row ID="ZhouUrbanHappiness" Age="AGE_ANTIQUITY" YieldType="YIELD_HAPPINESS" YieldChange="2" TilesRequired="1" AdjacentQuarter="true"/>
+		<Row ID="AllagUrbanCulture" Age="AGE_ANTIQUITY" YieldType="YIELD_CULTURE" YieldChange="2" TilesRequired="1" AdjacentQuarter="true"/>
+        <Row ID="AllagUrbanHappiness" Age="AGE_ANTIQUITY" YieldType="YIELD_HAPPINESS" YieldChange="2" TilesRequired="1" AdjacentQuarter="true"/>
 
-		<Row ID="ZhouZongMiaoUrbanDiplomacy" YieldType="YIELD_DIPLOMACY" YieldChange="1" TilesRequired="1" ProjectMaxYield="true" AdjacentQuarter="true"/>
+		<Row ID="AllagZongMiaoUrbanDiplomacy" YieldType="YIELD_DIPLOMACY" YieldChange="1" TilesRequired="1" ProjectMaxYield="true" AdjacentQuarter="true"/>
 	</Adjacency_YieldChanges>
 
     <Constructible_Adjacencies>
 
-		<Row ConstructibleType="BUILDING_AMPHITHEATER" YieldChangeId="ZhouUrbanCulture" RequiresActivation="true"/>
-        <Row ConstructibleType="BUILDING_AMPHITHEATER" YieldChangeId="ZhouUrbanHappiness" RequiresActivation="true"/>
+		<Row ConstructibleType="BUILDING_AMPHITHEATER" YieldChangeId="AllagUrbanCulture" RequiresActivation="true"/>
+        <Row ConstructibleType="BUILDING_AMPHITHEATER" YieldChangeId="AllagUrbanHappiness" RequiresActivation="true"/>
 
-		<Row ConstructibleType="BUILDING_MONUMENT" YieldChangeId="ZhouUrbanCulture" RequiresActivation="true"/>
-		<Row ConstructibleType="BUILDING_MONUMENT" YieldChangeId="ZhouUrbanHappiness" RequiresActivation="true"/>
+		<Row ConstructibleType="BUILDING_MONUMENT" YieldChangeId="AllagUrbanCulture" RequiresActivation="true"/>
+		<Row ConstructibleType="BUILDING_MONUMENT" YieldChangeId="AllagUrbanHappiness" RequiresActivation="true"/>
 
 		<!-- Civ Uniques -->
-		<Row ConstructibleType="BUILDING_BIYONG" YieldChangeId="ZhouUrbanCulture" RequiresActivation="true"/>
-		<Row ConstructibleType="BUILDING_BIYONG" YieldChangeId="ZhouUrbanHappiness" RequiresActivation="true"/>
+		<Row ConstructibleType="BUILDING_BIYONG" YieldChangeId="AllagUrbanCulture" RequiresActivation="true"/>
+		<Row ConstructibleType="BUILDING_BIYONG" YieldChangeId="AllagUrbanHappiness" RequiresActivation="true"/>
 
 		<Row ConstructibleType="BUILDING_BIYONG" YieldChangeId="WonderCulture"/>
 
         <Row ConstructibleType="BUILDING_ZONGMIAO" YieldChangeId="WonderDiplomacy"/>
-		<Row ConstructibleType="BUILDING_ZONGMIAO" YieldChangeId="ZhouZongMiaoUrbanDiplomacy"/>
+		<Row ConstructibleType="BUILDING_ZONGMIAO" YieldChangeId="AllagZongMiaoUrbanDiplomacy"/>
 
 	</Constructible_Adjacencies>
 
@@ -103,19 +103,19 @@
 
 	
     <UniqueQuarters>
-		<Row UniqueQuarterType="QUARTER_ZHOU_CAIYI" BuildingType1="BUILDING_BIYONG" BuildingType2="BUILDING_ZONGMIAO" Name="LOC_QUARTER_ZHOU_CAIYI_NAME" Description="LOC_QUARTER_ZHOU_CAIYI_DESCRIPTION" TraitType="TRAIT_ZHOU_CHINA"/>
+		<Row UniqueQuarterType="QUARTER_ALLAG_CAIYI" BuildingType1="BUILDING_BIYONG" BuildingType2="BUILDING_ZONGMIAO" Name="LOC_QUARTER_ALLAG_CAIYI_NAME" Description="LOC_QUARTER_ALLAG_CAIYI_DESCRIPTION" TraitType="TRAIT_ALLAGAN_EMPIRE"/>
 
 	</UniqueQuarters>
 
 	<GameModifiers>
 		<!-- Unique Quarter modifiers are game-wide -->
-		<Row ModifierId="MOD_ZHOU_CAIYI_WORKER_CULTURE"/>
+		<Row ModifierId="MOD_ALLAG_CAIYI_WORKER_CULTURE"/>
 		
 	</GameModifiers>
 
     <UniqueQuarterModifiers>
 
-		<Row UniqueQuarterType="QUARTER_ZHOU_CAIYI" ModifierId="MOD_ZHOU_CAIYI_WORKER_CULTURE"/>
+		<Row UniqueQuarterType="QUARTER_ALLAG_CAIYI" ModifierId="MOD_ALLAG_CAIYI_WORKER_CULTURE"/>
 
 	</UniqueQuarterModifiers>
 

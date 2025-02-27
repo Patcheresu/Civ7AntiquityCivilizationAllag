@@ -13,19 +13,19 @@
 
 	</UnlockRewards>
 	<RequirementSets>
-		<Row RequirementSetId="REQSET_CIV_IS_ZHOU_CHINA" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+		<Row RequirementSetId="REQSET_CIV_IS_ALLAGAN_EMPIRE" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
 	</RequirementSets>
 	<Requirements>
-		<Row RequirementId="REQ_CIV_IS_ZHOU_CHINA" RequirementType="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES"/>
+		<Row RequirementId="REQ_CIV_IS_ALLAGAN_EMPIRE" RequirementType="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES"/>
 	</Requirements>
 	<RequirementArguments>
-		<Row RequirementId="REQ_CIV_IS_ZHOU_CHINA" Name="CivilizationType" Value="CIVILIZATION_ZHOU_CHINA"/>
+		<Row RequirementId="REQ_CIV_IS_ALLAGAN_EMPIRE" Name="CivilizationType" Value="CIVILIZATION_ALLAGAN_EMPIRE"/>
 	</RequirementArguments>
 	<RequirementSetRequirements>
-		<Row RequirementSetId="REQSET_CIV_IS_ZHOU_CHINA" RequirementId="REQ_CIV_IS_ZHOU_CHINA"/>
+		<Row RequirementSetId="REQSET_CIV_IS_ALLAGAN_EMPIRE" RequirementId="REQ_CIV_IS_ALLAGAN_EMPIRE"/>
 	</RequirementSetRequirements>
 	<UnlockRequirements>
-		<Row UnlockType="UNLOCK_CIVILIZATION_MING" RequirementSetId="REQSET_CIV_IS_ZHOU_CHINA" Description="LOC_UNLOCK_PLAY_AS_ZHOU_CHINA_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_ZHOU_CHINA_MING_TOOLTIP"/>
+		<Row UnlockType="UNLOCK_CIVILIZATION_MING" RequirementSetId="REQSET_CIV_IS_ALLAGAN_EMPIRE" Description="LOC_UNLOCK_PLAY_AS_ALLAGAN_EMPIRE_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_ALLAGAN_EMPIRE_MING_TOOLTIP"/>
 		
 	</UnlockRequirements>
 	<UnlockConfigurationValues>

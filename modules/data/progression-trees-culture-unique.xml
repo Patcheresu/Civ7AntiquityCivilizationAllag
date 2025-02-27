@@ -3,71 +3,71 @@
 	<Types>
 		<!-- Civ Unique Trees -->
 
-		<Row Type="TREE_CIVICS_AQ_ZHOU_CHINA" Kind="KIND_TREE"/>
+		<Row Type="TREE_CIVICS_AQ_ALLAGAN_EMPIRE" Kind="KIND_TREE"/>
 
 		<!-- Civ Unique Tree Nodes -->
 
-		<!-- Zhou -->
-		<Row Type="NODE_CIVIC_AQ_ZHOU_FEN_FENG" Kind="KIND_TREE_NODE"/>
-		<Row Type="NODE_CIVIC_AQ_ZHOU_ZONG_FA" Kind="KIND_TREE_NODE"/>
-		<Row Type="NODE_CIVIC_AQ_ZHOU_LI_YUE" Kind="KIND_TREE_NODE"/>
-		<Row Type="NODE_CIVIC_AQ_ZHOU_BAI_JIA_ZHENG_MING" Kind="KIND_TREE_NODE"/>
+		<!-- Allag -->
+		<Row Type="NODE_CIVIC_AQ_ALLAG_FEN_FENG" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_AQ_ALLAG_ZONG_FA" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_AQ_ALLAG_LI_YUE" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_AQ_ALLAG_BAI_JIA_ZHENG_MING" Kind="KIND_TREE_NODE"/>
 		
 	</Types>
 	<TypeQuotes>
-		<Row Type="NODE_CIVIC_AQ_ZHOU_FEN_FENG" Quote="LOC_CIVIC_FEN_FENG_QUOTE" QuoteAuthor="LOC_CIVIC_FEN_FENG_QUOTE_AUTHOR" QuoteAudio=""/>
-		<Row Type="NODE_CIVIC_AQ_ZHOU_ZONG_FA" Quote="LOC_CIVIC_ZONG_FA_QUOTE" QuoteAuthor="LOC_CIVIC_ZONG_FA_QUOTE_AUTHOR" QuoteAudio=""/>
-		<Row Type="NODE_CIVIC_AQ_ZHOU_LI_YUE" Quote="LOC_CIVIC_LI_YUE_QUOTE" QuoteAuthor="LOC_CIVIC_LI_YUE_QUOTE_AUTHOR" QuoteAudio=""/>
-		<Row Type="NODE_CIVIC_AQ_ZHOU_BAI_JIA_ZHENG_MING" Quote="LOC_CIVIC_BAI_JIA_ZHENG_MING_QUOTE" QuoteAuthor="LOC_CIVIC_BAI_JIA_ZHENG_MING_QUOTE_AUTHOR" QuoteAudio=""/>
+		<Row Type="NODE_CIVIC_AQ_ALLAG_FEN_FENG" Quote="LOC_CIVIC_FEN_FENG_QUOTE" QuoteAuthor="LOC_CIVIC_FEN_FENG_QUOTE_AUTHOR" QuoteAudio=""/>
+		<Row Type="NODE_CIVIC_AQ_ALLAG_ZONG_FA" Quote="LOC_CIVIC_ZONG_FA_QUOTE" QuoteAuthor="LOC_CIVIC_ZONG_FA_QUOTE_AUTHOR" QuoteAudio=""/>
+		<Row Type="NODE_CIVIC_AQ_ALLAG_LI_YUE" Quote="LOC_CIVIC_LI_YUE_QUOTE" QuoteAuthor="LOC_CIVIC_LI_YUE_QUOTE_AUTHOR" QuoteAudio=""/>
+		<Row Type="NODE_CIVIC_AQ_ALLAG_BAI_JIA_ZHENG_MING" Quote="LOC_CIVIC_BAI_JIA_ZHENG_MING_QUOTE" QuoteAuthor="LOC_CIVIC_BAI_JIA_ZHENG_MING_QUOTE_AUTHOR" QuoteAudio=""/>
 		
 	</TypeQuotes>
 	<ProgressionTrees>
-		<Row ProgressionTreeType="TREE_CIVICS_AQ_ZHOU_CHINA" AgeType="AGE_ANTIQUITY" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_AQ_ZHOU_CHINA_NAME"/>
+		<Row ProgressionTreeType="TREE_CIVICS_AQ_ALLAGAN_EMPIRE" AgeType="AGE_ANTIQUITY" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_AQ_ALLAGAN_EMPIRE_NAME"/>
 
 	</ProgressionTrees>
 	<ProgressionTreeNodes>
-		<!-- Zhou -->
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_FEN_FENG" ProgressionTree="TREE_CIVICS_AQ_ZHOU_CHINA" Cost="200" Name="LOC_CIVIC_FEN_FENG_NAME" IconString="cult_zhou_china"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_ZONG_FA" ProgressionTree="TREE_CIVICS_AQ_ZHOU_CHINA" Cost="200" Name="LOC_CIVIC_ZONG_FA_NAME" IconString="cult_zhou_china" />
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_LI_YUE" ProgressionTree="TREE_CIVICS_AQ_ZHOU_CHINA" Cost="250" Name="LOC_CIVIC_LI_YUE_NAME" IconString="cult_zhou_china" />
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_BAI_JIA_ZHENG_MING" ProgressionTree="TREE_CIVICS_AQ_ZHOU_CHINA" Cost="400" Name="LOC_CIVIC_BAI_JIA_ZHENG_MING_NAME" IconString="cult_zhou_china" />
+		<!-- Allag -->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_FEN_FENG" ProgressionTree="TREE_CIVICS_AQ_ALLAGAN_EMPIRE" Cost="200" Name="LOC_CIVIC_FEN_FENG_NAME" IconString="cult_zhou_china"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_ZONG_FA" ProgressionTree="TREE_CIVICS_AQ_ALLAGAN_EMPIRE" Cost="200" Name="LOC_CIVIC_ZONG_FA_NAME" IconString="cult_zhou_china" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_LI_YUE" ProgressionTree="TREE_CIVICS_AQ_ALLAGAN_EMPIRE" Cost="250" Name="LOC_CIVIC_LI_YUE_NAME" IconString="cult_zhou_china" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_BAI_JIA_ZHENG_MING" ProgressionTree="TREE_CIVICS_AQ_ALLAGAN_EMPIRE" Cost="400" Name="LOC_CIVIC_BAI_JIA_ZHENG_MING_NAME" IconString="cult_zhou_china" />
 		
 	</ProgressionTreeNodes>
 	<ProgressionTreeNodeUnlocks>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_MAIN_CHIEFDOM" TargetKind="KIND_MODIFIER" TargetType="MOD_CODE_OF_LAWS_REVEAL_CIV_CULTURE_TREE_ZHOU_CHINA" UnlockDepth="1" Hidden="true"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_MAIN_CHIEFDOM" TargetKind="KIND_MODIFIER" TargetType="MOD_CODE_OF_LAWS_REVEAL_CIV_CULTURE_TREE_ALLAGAN_EMPIRE" UnlockDepth="1" Hidden="true"/>
 
 
-		<!-- Zhou -->
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_FEN_FENG" TargetKind="KIND_TRADITION" TargetType="TRADITION_JING_TIAN" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_FEN_FENG" TargetKind="KIND_MODIFIER" TargetType="MOD_AQ_ZHOU_FEN_FENG_SETTLEMENT_CAP_INCREASE" UnlockDepth="1"/>
+		<!-- Allag -->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_FEN_FENG" TargetKind="KIND_TRADITION" TargetType="TRADITION_JING_TIAN" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_FEN_FENG" TargetKind="KIND_MODIFIER" TargetType="MOD_AQ_ALLAG_FEN_FENG_SETTLEMENT_CAP_INCREASE" UnlockDepth="1"/>
 		
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_ZONG_FA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_ZONGMIAO" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_ZONG_FA" TargetKind="KIND_TRADITION" TargetType="TRADITION_ZONG_FA" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_ZONG_FA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_ZONGMIAO" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_ZONG_FA" TargetKind="KIND_TRADITION" TargetType="TRADITION_ZONG_FA" UnlockDepth="1"/>
 		
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_LI_YUE" TargetKind="KIND_MODIFIER" TargetType="MOD_AQ_ZHOU_LI_YUE_CAPITAL_CULTURE" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_LI_YUE" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_BIYONG" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_LI_YUE" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_WEIYANG_PALACE" UnlockDepth="1" AIIgnoreUnlockValue="true"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_LI_YUE" TargetKind="KIND_MODIFIER" TargetType="MOD_AQ_ALLAG_LI_YUE_CAPITAL_CULTURE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_LI_YUE" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_BIYONG" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_LI_YUE" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_WEIYANG_PALACE" UnlockDepth="1" AIIgnoreUnlockValue="true"/>
 		
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_BAI_JIA_ZHENG_MING" TargetKind="KIND_MODIFIER" TargetType="MOD_AQ_ZHOU_BJZM_LIBRARY_SCIENCE_YIELD" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_BAI_JIA_ZHENG_MING" TargetKind="KIND_MODIFIER" TargetType="MOD_AQ_ZHOU_BJZM_LIBRARY_DIPLOMACY_YIELD" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_BAI_JIA_ZHENG_MING" TargetKind="KIND_TRADITION" TargetType="TRADITION_ZHU_ZI_BAI_JIA" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_BAI_JIA_ZHENG_MING" TargetKind="KIND_MODIFIER" TargetType="MOD_AQ_ALLAG_BJZM_LIBRARY_SCIENCE_YIELD" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_BAI_JIA_ZHENG_MING" TargetKind="KIND_MODIFIER" TargetType="MOD_AQ_ALLAG_BJZM_LIBRARY_DIPLOMACY_YIELD" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_BAI_JIA_ZHENG_MING" TargetKind="KIND_TRADITION" TargetType="TRADITION_ZHU_ZI_BAI_JIA" UnlockDepth="1"/>
 
 	</ProgressionTreeNodeUnlocks>
 	<ProgressionTreePrereqs>
 		
-		<!-- Zhou -->
-		<Row Node="NODE_CIVIC_AQ_ZHOU_LI_YUE" PrereqNode="NODE_CIVIC_AQ_ZHOU_ZONG_FA"/>
-		<Row Node="NODE_CIVIC_AQ_ZHOU_LI_YUE" PrereqNode="NODE_CIVIC_AQ_ZHOU_FEN_FENG"/>
-		<Row Node="NODE_CIVIC_AQ_ZHOU_BAI_JIA_ZHENG_MING" PrereqNode="NODE_CIVIC_AQ_ZHOU_LI_YUE"/>
+		<!-- Allag -->
+		<Row Node="NODE_CIVIC_AQ_ALLAG_LI_YUE" PrereqNode="NODE_CIVIC_AQ_ALLAG_ZONG_FA"/>
+		<Row Node="NODE_CIVIC_AQ_ALLAG_LI_YUE" PrereqNode="NODE_CIVIC_AQ_ALLAG_FEN_FENG"/>
+		<Row Node="NODE_CIVIC_AQ_ALLAG_BAI_JIA_ZHENG_MING" PrereqNode="NODE_CIVIC_AQ_ALLAG_LI_YUE"/>
 		
 	</ProgressionTreePrereqs>
 	<ProgressionTree_Advisories>
 		
-		<!-- Zhou -->
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_FEN_FENG" AdvisoryClassType="ADVISORY_CLASS_FOOD"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_ZONG_FA" AdvisoryClassType="ADVISORY_CLASS_HAPPINESS"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_LI_YUE" AdvisoryClassType="ADVISORY_CLASS_CULTURE"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ZHOU_BAI_JIA_ZHENG_MING" AdvisoryClassType="ADVISORY_CLASS_DIPLOMACY"/>
+		<!-- Allag -->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_FEN_FENG" AdvisoryClassType="ADVISORY_CLASS_FOOD"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_ZONG_FA" AdvisoryClassType="ADVISORY_CLASS_HAPPINESS"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_LI_YUE" AdvisoryClassType="ADVISORY_CLASS_CULTURE"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_ALLAG_BAI_JIA_ZHENG_MING" AdvisoryClassType="ADVISORY_CLASS_DIPLOMACY"/>
 		
 	</ProgressionTree_Advisories>
 </Database>

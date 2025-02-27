@@ -2,7 +2,7 @@
 <Database>
     <NarrativeStory_Queues>
 
-		<Row QueueType="NARRATIVE_GROUP_GREAT_PERSON_ZHOU_THINKER" StartAll="FALSE" ActivationCount="1" />
+		<Row QueueType="NARRATIVE_GROUP_GREAT_PERSON_ALLAG_THINKER" StartAll="FALSE" ActivationCount="1" />
 
 	</NarrativeStory_Queues>
 	<DiscoverySiftingImprovements>

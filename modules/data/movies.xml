@@ -7,20 +7,20 @@
 	<EndGameMovies>
 		<!-- Defeats (Civ Specific) -->
 
-		<Row DefeatType="DEFEAT_DEFAULT" CivilizationType="CIVILIZATION_ZHOU_CHINA" Priority="450" MovieType="MOVIE_DEFEAT_HAN" />
+		<Row DefeatType="DEFEAT_DEFAULT" CivilizationType="CIVILIZATION_ALLAGAN_EMPIRE" Priority="450" MovieType="MOVIE_DEFEAT_HAN" />
 
-		<Row DefeatType="DEFEAT_RETIRE" CivilizationType="CIVILIZATION_ZHOU_CHINA" Priority="460" MovieType="MOVIE_DEFEAT_HAN" />
+		<Row DefeatType="DEFEAT_RETIRE" CivilizationType="CIVILIZATION_ALLAGAN_EMPIRE" Priority="460" MovieType="MOVIE_DEFEAT_HAN" />
 
 
 		<!-- Age Transition/Legacy Points Victory -->
 
-		<Row CivilizationType="CIVILIZATION_ZHOU_CHINA" LastCompletedLegacyPath="LEGACY_PATH_ANTIQUITY_ECONOMIC" Priority="200" MovieType="MOVIE_CIVILIZATION_HAN_LEGACY_ECONOMIC" />
+		<Row CivilizationType="CIVILIZATION_ALLAGAN_EMPIRE" LastCompletedLegacyPath="LEGACY_PATH_ANTIQUITY_ECONOMIC" Priority="200" MovieType="MOVIE_CIVILIZATION_HAN_LEGACY_ECONOMIC" />
 
-		<Row CivilizationType="CIVILIZATION_ZHOU_CHINA" LastCompletedLegacyPath="LEGACY_PATH_ANTIQUITY_MILITARY" Priority="200" MovieType="MOVIE_CIVILIZATION_HAN_LEGACY_MILITARY" />
+		<Row CivilizationType="CIVILIZATION_ALLAGAN_EMPIRE" LastCompletedLegacyPath="LEGACY_PATH_ANTIQUITY_MILITARY" Priority="200" MovieType="MOVIE_CIVILIZATION_HAN_LEGACY_MILITARY" />
 		
-		<Row CivilizationType="CIVILIZATION_ZHOU_CHINA" LastCompletedLegacyPath="LEGACY_PATH_ANTIQUITY_SCIENCE" Priority="200" MovieType="MOVIE_CIVILIZATION_HAN_LEGACY_SCIENCE" />
+		<Row CivilizationType="CIVILIZATION_ALLAGAN_EMPIRE" LastCompletedLegacyPath="LEGACY_PATH_ANTIQUITY_SCIENCE" Priority="200" MovieType="MOVIE_CIVILIZATION_HAN_LEGACY_SCIENCE" />
 		
-		<Row CivilizationType="CIVILIZATION_ZHOU_CHINA" LastCompletedLegacyPath="LEGACY_PATH_ANTIQUITY_CULTURE" Priority="200" MovieType="MOVIE_CIVILIZATION_HAN_LEGACY_CULTURE" />
+		<Row CivilizationType="CIVILIZATION_ALLAGAN_EMPIRE" LastCompletedLegacyPath="LEGACY_PATH_ANTIQUITY_CULTURE" Priority="200" MovieType="MOVIE_CIVILIZATION_HAN_LEGACY_CULTURE" />
 
 
 	</EndGameMovies>

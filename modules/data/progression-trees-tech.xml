@@ -11,9 +11,9 @@
 	</ProgressionTreeNodes>
 	<ProgressionTreeNodeUnlocks>
 
-		<Row ProgressionTreeNodeType="NODE_TECH_AQ_WHEEL" TargetKind="KIND_UNIT" TargetType="UNIT_ZHOU_CHARIOT" UnlockDepth="1" RequiredTraitType="TRAIT_ZHOU_CHINA"/>
+		<Row ProgressionTreeNodeType="NODE_TECH_AQ_WHEEL" TargetKind="KIND_UNIT" TargetType="UNIT_ALLAG_CHARIOT" UnlockDepth="1" RequiredTraitType="TRAIT_ALLAGAN_EMPIRE"/>
 
-		<Row ProgressionTreeNodeType="NODE_TECH_AQ_IRON_WORKING" TargetKind="KIND_UNIT" TargetType="UNIT_ZHOU_CHARIOT_2" UnlockDepth="1" RequiredTraitType="TRAIT_ZHOU_CHINA"/>
+		<Row ProgressionTreeNodeType="NODE_TECH_AQ_IRON_WORKING" TargetKind="KIND_UNIT" TargetType="UNIT_ALLAG_CHARIOT_2" UnlockDepth="1" RequiredTraitType="TRAIT_ALLAGAN_EMPIRE"/>
 
 	</ProgressionTreeNodeUnlocks>
 	<ProgressionTreePrereqs>

@@ -2,37 +2,37 @@
 <Database>
 	<AiListTypes>
 
-		<!-- Zhou -->
-		<Row ListType="Zhou Unit Biases"/>
-		<Row ListType="Zhou Government Bias"/>
-		<Row ListType="Zhou Tag Biases"/>
-		<Row ListType="Zhou Constructibles Biases" />
+		<!-- Allag -->
+		<Row ListType="Allag Unit Biases"/>
+		<Row ListType="Allag Government Bias"/>
+		<Row ListType="Allag Tag Biases"/>
+		<Row ListType="Allag Constructibles Biases" />
 
 	</AiListTypes>
 	<AiLists>
 	
-		<!-- Zhou -->
-		<Row ListType="Zhou Unit Biases" LeaderType="TRAIT_ZHOU_CHINA" System="UnitBiases"/>
-		<Row ListType="Zhou Government Bias" LeaderType="TRAIT_ZHOU_CHINA" System="GovernmentBiases"/>
-		<Row ListType="Zhou Tag Biases" LeaderType="TRAIT_ZHOU_CHINA" System="TagBiases"/>
-		<Row ListType="Zhou Constructibles Biases" LeaderType="TRAIT_ZHOU_CHINA" System="ConstructibleBiases" />
+		<!-- Allag -->
+		<Row ListType="Allag Unit Biases" LeaderType="TRAIT_ALLAGAN_EMPIRE" System="UnitBiases"/>
+		<Row ListType="Allag Government Bias" LeaderType="TRAIT_ALLAGAN_EMPIRE" System="GovernmentBiases"/>
+		<Row ListType="Allag Tag Biases" LeaderType="TRAIT_ALLAGAN_EMPIRE" System="TagBiases"/>
+		<Row ListType="Allag Constructibles Biases" LeaderType="TRAIT_ALLAGAN_EMPIRE" System="ConstructibleBiases" />
 		
 	</AiLists>
 	<AiFavoredItems>
 
-		<!-- Zhou -->
-		<Row ListType="Zhou Unit Biases" Item="UNIT_ZHOU_CHARIOT" Value="50"/>
-		<Row ListType="Zhou Unit Biases" Item="UNIT_ZHOU_CHARIOT_2" Value="25"/>
-		<Row ListType="Zhou Unit Biases" Item="UNIT_ZHOU_THINKER" Value="50"/>
+		<!-- Allag -->
+		<Row ListType="Allag Unit Biases" Item="UNIT_ALLAG_CHARIOT" Value="50"/>
+		<Row ListType="Allag Unit Biases" Item="UNIT_ALLAG_CHARIOT_2" Value="25"/>
+		<Row ListType="Allag Unit Biases" Item="UNIT_ALLAG_THINKER" Value="50"/>
 		
-		<Row ListType="Zhou Government Bias" Item="GOVERNMENT_DESPOTISM" Value="50"/>
+		<Row ListType="Allag Government Bias" Item="GOVERNMENT_DESPOTISM" Value="50"/>
 		
-		<Row ListType="Zhou Tag Biases" Item="CULTURE" Value="50"/>
-		<Row ListType="Zhou Tag Biases" Item="HAPPINESS" Value="25"/>
+		<Row ListType="Allag Tag Biases" Item="CULTURE" Value="50"/>
+		<Row ListType="Allag Tag Biases" Item="HAPPINESS" Value="25"/>
 
-		<Row ListType="Zhou Constructibles Biases" Item="BUILDING_BIYONG" Value="200"/>
-		<Row ListType="Zhou Constructibles Biases" Item="BUILDING_ZONGMIAO" Value="200"/>
-		<Row ListType="Zhou Constructibles Biases" Item="WONDER_WEIYANG_PALACE" Value="50"/>
+		<Row ListType="Allag Constructibles Biases" Item="BUILDING_BIYONG" Value="200"/>
+		<Row ListType="Allag Constructibles Biases" Item="BUILDING_ZONGMIAO" Value="200"/>
+		<Row ListType="Allag Constructibles Biases" Item="WONDER_WEIYANG_PALACE" Value="50"/>
 
 	</AiFavoredItems>
 </Database>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>
 	<LoadingInfo_Civilizations>
-		<Row CivilizationType="CIVILIZATION_ZHOU_CHINA" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_ZHOU_CHINA" Audio="" Subtitle="LOC_LOADING_INTRO_ZHOU_CHINA" BackgroundImageHigh="fs://game/zhou-china/textures/lsbg_zhou_1080.png" BackgroundImageLow="fs://game/zhou-china/textures/lsbg_zhou_720.png" ForegroundImage="fs://game/civ_line_han.png" />
+		<Row CivilizationType="CIVILIZATION_ALLAGAN_EMPIRE" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_ALLAGAN_EMPIRE" Audio="" Subtitle="LOC_LOADING_INTRO_ALLAGAN_EMPIRE" BackgroundImageHigh="fs://game/zhou-china/textures/lsbg_zhou_1080.png" BackgroundImageLow="fs://game/zhou-china/textures/lsbg_zhou_720.png" ForegroundImage="fs://game/civ_line_han.png" />
 	</LoadingInfo_Civilizations>
 </Database>

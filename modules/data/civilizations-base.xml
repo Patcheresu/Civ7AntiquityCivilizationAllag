@@ -1,13 +1,13 @@
 <Database>
 	<Types>
 
-		<Row Type="TRAIT_ZHOU_CHINA" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_ALLAGAN_EMPIRE" Kind="KIND_TRAIT"/>
 
 	</Types>
 
 	<Traits>
 		
-		<Row TraitType="TRAIT_ZHOU_CHINA" InternalOnly="true"/>
+		<Row TraitType="TRAIT_ALLAGAN_EMPIRE" InternalOnly="true"/>
 		
 	</Traits>
 </Database>

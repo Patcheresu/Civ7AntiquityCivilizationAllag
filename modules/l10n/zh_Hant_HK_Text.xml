@@ -3,212 +3,212 @@
   <LocalizedText>
 
     <!-- city names -->
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA1" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE1" Language="zh_Hant_HK">
       <Text>镐京</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA10" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE10" Language="zh_Hant_HK">
       <Text>虞</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA11" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE11" Language="zh_Hant_HK">
       <Text>吴</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA12" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE12" Language="zh_Hant_HK">
       <Text>郑</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA13" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE13" Language="zh_Hant_HK">
       <Text>随</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA14" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE14" Language="zh_Hant_HK">
       <Text>鲁</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA15" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE15" Language="zh_Hant_HK">
       <Text>邢</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA16" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE16" Language="zh_Hant_HK">
       <Text>蔡</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA17" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE17" Language="zh_Hant_HK">
       <Text>曹</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA18" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE18" Language="zh_Hant_HK">
       <Text>赵</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA19" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE19" Language="zh_Hant_HK">
       <Text>洛</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA2" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE2" Language="zh_Hant_HK">
       <Text>卫</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA20" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE20" Language="zh_Hant_HK">
       <Text>骊戎</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA21" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE21" Language="zh_Hant_HK">
       <Text>宿</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA22" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE22" Language="zh_Hant_HK">
       <Text>楚</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA23" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE23" Language="zh_Hant_HK">
       <Text>召</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA24" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE24" Language="zh_Hant_HK">
       <Text>燕</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA25" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE25" Language="zh_Hant_HK">
       <Text>魏</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA26" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE26" Language="zh_Hant_HK">
       <Text>韩</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA27" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE27" Language="zh_Hant_HK">
       <Text>晋</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA28" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE28" Language="zh_Hant_HK">
       <Text>虢</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA29" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE29" Language="zh_Hant_HK">
       <Text>齐</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA3" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE3" Language="zh_Hant_HK">
       <Text>申</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA30" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE30" Language="zh_Hant_HK">
       <Text>许</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA4" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE4" Language="zh_Hant_HK">
       <Text>陈</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA5" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE5" Language="zh_Hant_HK">
       <Text>杞</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA6" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE6" Language="zh_Hant_HK">
       <Text>越</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA7" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE7" Language="zh_Hant_HK">
       <Text>宋</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA8" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE8" Language="zh_Hant_HK">
       <Text>箕子朝鲜</Text>
     </Replace>
-    <Replace Tag="LOC_CITY_NAME_ZHOU_CHINA9" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITY_NAME_ALLAGAN_EMPIRE9" Language="zh_Hant_HK">
       <Text>秦</Text>
     </Replace>
 
     <!-- citizen names -->
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_1" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_FEMALE_1" Language="zh_Hant_HK">
       <Text>太姜</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_10" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_FEMALE_10" Language="zh_Hant_HK">
       <Text>太妊</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_2" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_FEMALE_2" Language="zh_Hant_HK">
       <Text>太姒</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_3" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_FEMALE_3" Language="zh_Hant_HK">
       <Text>邑姜</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_4" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_FEMALE_4" Language="zh_Hant_HK">
       <Text>定姜</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_5" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_FEMALE_5" Language="zh_Hant_HK">
       <Text>孟母</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_6" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_FEMALE_6" Language="zh_Hant_HK">
       <Text>息君夫人</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_7" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_FEMALE_7" Language="zh_Hant_HK">
       <Text>晋文齐姜</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_8" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_FEMALE_8" Language="zh_Hant_HK">
       <Text>许穆夫人</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_FEMALE_9" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_FEMALE_9" Language="zh_Hant_HK">
       <Text>齐伤槐女</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_1" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_MALE_1" Language="zh_Hant_HK">
       <Text>孔子</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_10" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_MALE_10" Language="zh_Hant_HK">
       <Text>孟子</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_2" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_MALE_2" Language="zh_Hant_HK">
       <Text>荀子</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_3" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_MALE_3" Language="zh_Hant_HK">
       <Text>老子</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_4" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_MALE_4" Language="zh_Hant_HK">
       <Text>庄子</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_5" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_MALE_5" Language="zh_Hant_HK">
       <Text>墨子</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_6" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_MALE_6" Language="zh_Hant_HK">
       <Text>孙武</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_7" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_MALE_7" Language="zh_Hant_HK">
       <Text>邹衍</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_8" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_MALE_8" Language="zh_Hant_HK">
       <Text>苏秦</Text>
     </Replace>
-    <Replace Tag="LOC_CITIZEN_ZHOU_CHINA_MALE_9" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CITIZEN_ALLAGAN_EMPIRE_MALE_9" Language="zh_Hant_HK">
       <Text>许行</Text>
     </Replace>
 
     <!-- civilization -->
-    <Replace Tag="LOC_CIVILIZATION_ZHOU_CHINA_ADJECTIVE" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CIVILIZATION_ALLAGAN_EMPIRE_ADJECTIVE" Language="zh_Hant_HK">
       <Text>周朝</Text>
     </Replace>
-    <Replace Tag="LOC_CIVILIZATION_ZHOU_CHINA_FULLNAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CIVILIZATION_ALLAGAN_EMPIRE_FULLNAME" Language="zh_Hant_HK">
       <Text>周朝</Text>
     </Replace>
-    <Replace Tag="LOC_CIVILIZATION_ZHOU_CHINA_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CIVILIZATION_ALLAGAN_EMPIRE_NAME" Language="zh_Hant_HK">
       <Text>周朝</Text>
     </Replace>
 
     
-    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ALLAGAN_EMPIRE_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
       <Text>周族是居于今陕甘黄土高原、渭水流域一带的古老部族，相传因“姬水”而得姓为姬。相传周的始祖名弃，为有邰氏女姜嫄所生，因善于耕种，也被称为后稷。周人的祖先大概是从羌人中分化出来的一支。商朝初年，后稷的后代公刘率族人从邰迁到磁。周人早期居于陕西武功一带，到公刘时，周部落则已迁居于豳。由耕牧部族渐变为农耕为主的城邑。自公刘起，又经九世传位，到古公亶父为部族首领时，周人受薰育戎侵袭逼迫，不得不迁徙。他们越过漆、沮和梁山，迁至渭河流域岐山以南之周原。 </Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ALLAGAN_EMPIRE_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
       <Text>周原物产丰富，土地肥沃，灌溉便利，农耕条件优越，经济发展快速。迁到周原以后，周人成为大邑商的臣民，并且接受了商朝的文化和文字。古公亶父传位季历，季历不仅与商朝贵族联姻，还被商王文丁封为“牧师”，成为商王朝在西方最为重要的一位方伯。周此时已是商朝属下一强大方国。虽然关系密切，商王朝却总是时刻提防着这股新生力量。</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ALLAGAN_EMPIRE_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
       <Text>西伯姬昌继位后，国力不足与商对抗，故继续臣服于商，为商西伯。但殷商对周并不放心。商纣一度囚禁姬昌于羑里，并杀其子作为肉汤、迫文王喝下。周人以宝马、美女贿赂帝辛，求得释放文王。文王归国后，谋商之心并无松懈。他一方面增强周族实力，使周国附近一些部落归附。另一方面进行武力扩张。在讨伐密须，崇国等国家后，迁都于丰都（今陕西省西安市户县沣河西岸），准备进取殷商。</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ALLAGAN_EMPIRE_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
       <Text>文王薨，次子姬发即位称周武王，在沣河东岸又建镐京，丰镐二京隔水相望，有桥相连，并称丰镐城。周武王姬发带领周与各诸侯联军会盟于孟津（今河南孟津），公元前11世纪，率戎车三百，虎贲三千，甲士四万五千与商朝十七万军队大战于牧野（今河南汲县）。周武王伐纣，牧野之战中前徒倒戈， 周军大胜，商纣王于鹿台身背珠宝玉器自焚。商朝亡，因为周部族到古公亶父时迁居于周原，武王灭殷以后，就以“周”为朝代名，周朝立。</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_5" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ALLAGAN_EMPIRE_CHAPTER_HISTORY_PARA_5" Language="zh_Hant_HK">
       <Text>西周初年，周天子通过“封邦建国”，册封同姓、前代帝王之后和功臣到各地建立诸侯国，同时又通过对天子权力和诸侯义务的一系列规定，形成天子和诸侯之间的权力分配和运行机制。此外，西周王朝制定并实施了一整套等级礼制，强化封建体系下各级政权之间的等级隶属关系，从而建立起“礼乐征伐自天子出”的礼治秩序。西周诸侯国受封建国后，实行与西周王朝统一的社会制度，包括分封制、宗法制、井田制、国野制等。西周天子与诸侯君臣关系的确立，诸侯国政权同周王室之间隶属关系的加强，统一的礼治秩序的形成，标志着中国历史上一个新型的国家政体——大一统国家政体初步形成。</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_6" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ALLAGAN_EMPIRE_CHAPTER_HISTORY_PARA_6" Language="zh_Hant_HK">
       <Text>公元前770年，周平王东迁定都洛邑（今河南洛阳），标志着东周的开始。自东周开始，周朝由强转弱，王室日益衰微，大权旁落。诸侯国之间互相征伐，战争频繁。小诸侯国纷纷被吞并，强大的诸侯国在局部地区实现了统一，并取得霸主地位。公元前453年，韩、赵、魏推翻智氏，三家分晋。公元前403年，周威烈王册封三晋为诸侯；公元前386年，田和列为诸侯，战国七雄的格局正式形成。</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_7" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ALLAGAN_EMPIRE_CHAPTER_HISTORY_PARA_7" Language="zh_Hant_HK">
       <Text>随着水利的兴修，铁器的使用和牛耕的推广，商业和货币的发展，春秋中后期，各诸侯国的经济得到发展，政治形势也产生了相应的变化。诸侯国内部卿大夫的势力逐渐发展起来。这些发展也使社会结构发生了变化。世袭的等级制度被瓦解，一些过去的贵族失去了地位，而另一些那个时候的平民通过经商或其他的机会致富，甚至成为政治集团中举足轻重的人物。官僚制度发生了变化。</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ZHOU_CHINA_CHAPTER_HISTORY_PARA_8" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_CIVILIZATION_ALLAGAN_EMPIRE_CHAPTER_HISTORY_PARA_8" Language="zh_Hant_HK">
       <Text>面对这种礼崩乐坏和社会大变革，各个诸侯国纷纷变法和招贤纳士。代表各阶级、各阶层，各派政治力量的学者或思想家，都企图按照本阶级（层）或本集团的利益和要求，对宇宙对社会对万事万物作出解释，或提出主张。他们著书立说，广收门徒，高谈阔论，互相诘难，于是出现了思想领域里“百家争鸣”的局面。</Text>
     </Replace>
 
 
-    <Replace Tag="LOC_TRAIT_ZHOU_CHINA_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_TRAIT_ALLAGAN_EMPIRE_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
       <Text>[LIST][LI][B]文化值建筑[/B]从[B]城区[/B]获得[B]+2[icon:YIELD_CULTURE]文化值[/B]和[B]+2[icon:YIELD_HAPPINESS]幸福值相邻加成[/B]。[LI]建造[B]未央宫[/B]时[B]+30%[icon:YIELD_PRODUCTION]生产力效用[/B]。[/LIST]</Text>
     </Replace>
-    <Replace Tag="LOC_TRAIT_ZHOU_CHINA_ABILITY_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_TRAIT_ALLAGAN_EMPIRE_ABILITY_NAME" Language="zh_Hant_HK">
       <Text>周礼</Text>
     </Replace>
 
-    <Replace Tag="LOC_MOD_ZHOU_CULTURE_BUILDING_URBAN_CULTURE_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_MOD_ALLAG_CULTURE_BUILDING_URBAN_CULTURE_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
       <Text>文化值建筑从城区获得+2[icon:YIELD_CULTURE]文化值相邻加成。</Text>
     </Replace>
-    <Replace Tag="LOC_MOD_ZHOU_CULTURE_BUILDING_URBAN_HAPPINESS_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_MOD_ALLAG_CULTURE_BUILDING_URBAN_HAPPINESS_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
       <Text>文化值建筑从城区获得+2[icon:YIELD_HAPPINESS]幸福值相邻加成。</Text>
     </Replace>
 
-    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_ZHOU_CHINA_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_MOD_CIV_WONDER_PRODUCTION_ALLAGAN_EMPIRE_DESCRIPTION" Language="zh_Hant_HK">
       <Text>作为周朝的关联奇观，+30%[icon:YIELD_PRODUCTION]生产力。</Text>
     </Replace>
 
@@ -242,165 +242,165 @@
       <Text>宗庙，是天子或诸侯祭祀祖先的场所。《礼记·王制》记载：“天子七庙，三昭三穆，与大祖之庙而七。诸侯五庙，二昭二穆，与大祖之庙而五。大夫三庙，一昭一穆，与大祖之庙而三。士一庙。庶人祭于寝。” 后世学者认为，此记载是根据战国秦汉时期的近亲宗族组织及宗庙制度向前推论的，因此不符合西周春秋时期的庙制和近亲宗族制度。</Text>
     </Replace>
 
-    <Replace Tag="LOC_QUARTER_ZHOU_CAIYI_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_QUARTER_ALLAG_CAIYI_NAME" Language="zh_Hant_HK">
       <Text>采邑</Text>
     </Replace>
-    <Replace Tag="LOC_QUARTER_ZHOU_CAIYI_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_QUARTER_ALLAG_CAIYI_DESCRIPTION" Language="zh_Hant_HK">
       <Text>周朝特色城区。建造方法是将辟雍和宗庙放置在同一个区块中。城市中的专家+1[icon:YIELD_CULTURE]文化值。</Text>
     </Replace>
-    <Replace Tag="LOC_QUARTER_ZHOU_CAIYI_TOOLTIP" Language="zh_Hant_HK">
+    <Replace Tag="LOC_QUARTER_ALLAG_CAIYI_TOOLTIP" Language="zh_Hant_HK">
       <Text>城市中的专家+1[icon:YIELD_CULTURE]文化值。</Text>
     </Replace>
 
-    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_ZHOU_CAIYI_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_ALLAG_CAIYI_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
       <Text>西周王室封建诸侯有畿内、畿外之别，受封于王畿内的卿大夫食采，“采邑就是王畿之内的诸侯国”，受封于王畿外者就国，“以藩屏周”。采邑和封国的受封对象、性质、权利与义务等虽有差别，但都是西周分封制的重要组成部分。</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_ZHOU_CAIYI_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_ALLAG_CAIYI_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
       <Text>西周晚期至春秋前期，周室衰微，“礼乐征伐自诸侯出”，各诸侯强国通过兼并和扩张，所辖领地大增，它们纷纷效法周室，在各自境内分封授采，采邑制逐渐成为各国普遍施行的一种政治制度。</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_ZHOU_CAIYI_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_QUARTER_ALLAG_CAIYI_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
       <Text>秦统一后，确立郡县制，接受封爵的主要是功臣，虽仍有封邑，但在封邑内没有统治权，以所征的赋税作为俸禄。封邑大小按户数计算，由嫡长子世袭。</Text>
     </Replace>
 
     <!-- rivers -->
-    <Replace Tag="LOC_RIVER_ZHOU_JING_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_RIVER_ALLAG_JING_NAME" Language="zh_Hant_HK">
       <Text>泾水</Text>
     </Replace>  
-    <Replace Tag="LOC_RIVER_ZHOU_WEI_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_RIVER_ALLAG_WEI_NAME" Language="zh_Hant_HK">
       <Text>渭水</Text>
     </Replace>  
 
     <!-- units -->
-    <Replace Tag="LOC_UNIT_ZHOU_CHARIOT_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_UNIT_ALLAG_CHARIOT_NAME" Language="zh_Hant_HK">
       <Text>元戎战车</Text>
     </Replace>    
-    <Replace Tag="LOC_UNIT_ZHOU_CHARIOT_BASE_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_UNIT_ALLAG_CHARIOT_BASE_DESCRIPTION" Language="zh_Hant_HK">
       <Text>周朝特色骑兵单位。移动力更高。对抗独立势力时+5战斗力。无视控制区。</Text>
     </Replace>
-    <Replace Tag="LOC_UNIT_ZHOU_CHARIOT_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_UNIT_ALLAG_CHARIOT_DESCRIPTION" Language="zh_Hant_HK">
       <Text>第2阶周朝特色骑兵单位。移动力更高。对抗独立势力时+5战斗力。无视控制区。</Text>
     </Replace>
-    <Replace Tag="LOC_UNIT_ZHOU_CHARIOT_2_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_UNIT_ALLAG_CHARIOT_2_DESCRIPTION" Language="zh_Hant_HK">
       <Text>第3阶周朝特色骑兵单位。移动力更高。对抗独立势力时+5战斗力。无视控制区。</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_UNIT_ZHOU_CHARIOT_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_ALLAG_CHARIOT_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
       <Text>周朝时期，使用马匹拉动的战车成为了战场的主角，战车的数量亦是计算各诸侯国军力的计算单位。车战也常见于周朝时期的诗歌。在《诗经》的《小雅·六月》中，记载了周朝军队使用元戎战车击败北方入侵玁狁的战绩。</Text>
     </Replace>
 
-    <Replace Tag="LOC_ABILITY_ZHOU_CHARIOT_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_ABILITY_ALLAG_CHARIOT_NAME" Language="zh_Hant_HK">
       <Text>攘夷</Text>
     </Replace>
-    <Replace Tag="LOC_ABILITY_ZHOU_CHARIOT_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_ABILITY_ALLAG_CHARIOT_DESCRIPTION" Language="zh_Hant_HK">
       <Text>对抗独立势力时+5战斗力。</Text>
     </Replace>
-    <Replace Tag="LOC_ABILITY_ZHOU_CHARIOT_PREVIEW" Language="zh_Hant_HK">
+    <Replace Tag="LOC_ABILITY_ALLAG_CHARIOT_PREVIEW" Language="zh_Hant_HK">
       <Text>与独立势力对战时+{1_Value}战斗力。</Text>
     </Replace>
 
-    <Replace Tag="LOC_ABILITY_NARRATIVE_STRENGTH_ZHOU_THINKER_SUN_WU_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_ABILITY_NARRATIVE_STRENGTH_ALLAG_THINKER_SUN_WU_NAME" Language="zh_Hant_HK">
       <Text>孙武治军</Text>
     </Replace>
-    <Replace Tag="LOC_ABILITY_NARRATIVE_STRENGTH_ZHOU_THINKER_SUN_WU_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_ABILITY_NARRATIVE_STRENGTH_ALLAG_THINKER_SUN_WU_DESCRIPTION" Language="zh_Hant_HK">
       <Text>+3战斗力</Text>
     </Replace>
-    <Replace Tag="LOC_ABILITY_NARRATIVE_STRENGTH_ZHOU_THINKER_SUN_WU_PREVIEW" Language="zh_Hant_HK">
+    <Replace Tag="LOC_ABILITY_NARRATIVE_STRENGTH_ALLAG_THINKER_SUN_WU_PREVIEW" Language="zh_Hant_HK">
       <Text>+{1_Amount} 来自孙武治军</Text>
     </Replace>
     
 
-    <Replace Tag="LOC_UNIT_ZHOU_THINKER_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_UNIT_ALLAG_THINKER_NAME" Language="zh_Hant_HK">
       <Text>思想家</Text>
     </Replace>
-    <Replace Tag="LOC_UNIT_ZHOU_THINKER_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_UNIT_ALLAG_THINKER_DESCRIPTION" Language="zh_Hant_HK">
       <Text>使用次数为1的伟人。只能在拥有图书馆的城市中生产，随机获得特定的思想家。每位思想家只能获得一次。每获得一位思想家后，生产费用将有所增加。</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_UNIT_ZHOU_THINKER_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_UNIT_ALLAG_THINKER_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
       <Text>诸子，指的是中国先秦时期管子、孔子、墨子、老子、庄子、孟子、荀子等学术思想的代表人物；百家，指的是儒家、道家、墨家、名家、法家等各个学术流派的代表家。春秋后期已出现颇有社会影响的法家、道家、儒家、墨家、阴阳家等不同学派，而至战国中期，许多学派纷呈，众多学说丰富多彩，为中国文化发展奠定了宽广的基础，中国术语上把这一时期称为诸子百家或百家争鸣时期。</Text>
     </Replace>
 
     <!-- copy from han great people -->
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_LAOZI_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_LAOZI_NAME" Language="zh_Hant_HK">
       <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_LAOZI_NAME}</Text>
     </Replace>
-    <Replace Tag="LOC_GREATWORK_LAOZI_TAO_ZHOU_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREATWORK_LAOZI_TAO_ALLAG_NAME" Language="zh_Hant_HK">
       <Text>{LOC_GREATWORK_LAOZI_TAO_NAME}</Text>
     </Replace>
-    <Replace Tag="LOC_GREATWORK_LAOZI_TAO_ZHOU_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREATWORK_LAOZI_TAO_ALLAG_DESCRIPTION" Language="zh_Hant_HK">
       <Text>2幸福值</Text>
     </Replace>
 
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MENCIUS_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_MENCIUS_NAME" Language="zh_Hant_HK">
       <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_MENCIUS_NAME}</Text>
     </Replace>
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MENCIUS_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_MENCIUS_DESCRIPTION" Language="zh_Hant_HK">
       <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_MENCIUS_DESCRIPTION}</Text>
     </Replace>
 
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MOZI_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_MOZI_NAME" Language="zh_Hant_HK">
       <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_MOZI_NAME}</Text>
     </Replace>
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_MOZI_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_MOZI_DESCRIPTION" Language="zh_Hant_HK">
       <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_MOZI_DESCRIPTION}</Text>
     </Replace>
 
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SHANG_YANG_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_SHANG_YANG_NAME" Language="zh_Hant_HK">
       <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_SHANG_YANG_NAME}</Text>
     </Replace>
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SHANG_YANG_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_SHANG_YANG_DESCRIPTION" Language="zh_Hant_HK">
       <Text>{LOC_GREAT_PERSON_INDIVIDUAL_SHI_DAFU_SHANG_YANG_DESCRIPTION}</Text>
     </Replace>
 
     <!-- new great people -->
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_GONGSUN_LONG_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_GONGSUN_LONG_NAME" Language="zh_Hant_HK">
       <Text>公孙龙</Text>
     </Replace>
 
-    <Replace Tag="LOC_GREATWORK_GONGSUN_LONG_GSLZ_ZHOU_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREATWORK_GONGSUN_LONG_GSLZ_ALLAG_NAME" Language="zh_Hant_HK">
       <Text>《公孙龙子》</Text>
     </Replace>
-    <Replace Tag="LOC_GREATWORK_GONGSUN_LONG_GSLZ_ZHOU_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREATWORK_GONGSUN_LONG_GSLZ_ALLAG_DESCRIPTION" Language="zh_Hant_HK">
       <Text>2文化值</Text>
     </Replace>
 
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_ZOU_YAN_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_ZOU_YAN_NAME" Language="zh_Hant_HK">
       <Text>邹衍</Text>
     </Replace>
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_ZOU_YAN_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_ZOU_YAN_DESCRIPTION" Language="zh_Hant_HK">
       <Text>在图书馆上激活，为建筑+3[icon:YIELD_CULTURE]文化值。</Text>
     </Replace>
 
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_GUIGUZI_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_GUIGUZI_NAME" Language="zh_Hant_HK">
       <Text>鬼谷子</Text>
     </Replace>
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_GUIGUZI_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_GUIGUZI_DESCRIPTION" Language="zh_Hant_HK">
       <Text>在图书馆上激活，立即获得150[icon:YIELD_DIPLOMACY]影响力（标准速度下）。</Text>
     </Replace>
 
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_LV_BUWEI_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_LV_BUWEI_NAME" Language="zh_Hant_HK">
       <Text>吕不韦</Text>
     </Replace>
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_LV_BUWEI_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_LV_BUWEI_DESCRIPTION" Language="zh_Hant_HK">
       <Text>在宫殿上激活，为建筑+6[icon:YIELD_GOLD]金币。</Text>
     </Replace>
 
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_XU_XING_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_XU_XING_NAME" Language="zh_Hant_HK">
       <Text>许行</Text>
     </Replace>
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_XU_XING_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_XU_XING_DESCRIPTION" Language="zh_Hant_HK">
       <Text>在市中心激活，为此城市的所有乡村地块+2[icon:YIELD_FOOD]食物。</Text>
     </Replace>
 
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SUN_WU_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_SUN_WU_NAME" Language="zh_Hant_HK">
       <Text>孙武</Text>
     </Replace>
-    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_THINKER_SUN_WU_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALLAG_THINKER_SUN_WU_DESCRIPTION" Language="zh_Hant_HK">
       <Text>在军队指挥官上激活，为其提供1次免费晋升。</Text>
     </Replace>
     
 
 
     <!-- civics -->
-    <Replace Tag="LOC_TREE_CIVICS_AQ_ZHOU_CHINA_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_TREE_CIVICS_AQ_ALLAGAN_EMPIRE_NAME" Language="zh_Hant_HK">
       <Text>周朝市政</Text>
     </Replace>
 
@@ -413,10 +413,10 @@
     <Replace Tag="LOC_CIVIC_FEN_FENG_QUOTE_AUTHOR" Language="zh_Hant_HK">
       <Text>《左传》</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ZHOU_FEN_FENG_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ALLAG_FEN_FENG_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
       <Text>分封制又称封邦建国（封土建国），是西周的政治制度，分封的目的是为了巩固周王朝的统治，分封的对象和做法是把王族、功臣和先代的贵族分封到各地去做诸侯，建立诸侯国；被封诸侯的义务是：要服从周王的命令，要向周王贡献财物，要派兵随从周王作战。分封制巩固了西周的统治，拓展了疆域。</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ZHOU_FEN_FENG_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ALLAG_FEN_FENG_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
       <Text>井田制是中国西周时期的土地国有制，开始实行于商朝，盛行于西周，瓦解于春秋，废除于战国。井田的土地所有权属于周王，周王把土地分赐给诸侯臣下，但臣下只能世代享用，不得转让和自由买卖，还要交纳一定的贡赋。井田制是分封制的经济基础，分封制是与之相适应的上层建筑。</Text>
     </Replace>
 
@@ -429,10 +429,10 @@
     <Replace Tag="LOC_CIVIC_ZONG_FA_QUOTE_AUTHOR" Language="zh_Hant_HK">
       <Text>《公羊传》</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ZHOU_ZONG_FA_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ALLAG_ZONG_FA_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
       <Text>宗法制，是古代维护贵族世袭统治的一种制度。是由氏族社会父系家长制演变而来的，是王族贵族按血缘关系分配国家权力，以便建立世袭统治的一种制度。其特点是宗族组织和国家组织合二为一，宗法等级和政治等级完全一致。</Text>
     </Replace>
-      <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ZHOU_ZONG_FA_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+      <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ALLAG_ZONG_FA_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
       <Text>此制度确立于夏朝，发展于商朝，完备于周朝，影响于后来的各王朝。按照周代的宗法制度，宗族中分为大宗和小宗。周王自称天子，称为天下的大宗。天子的除嫡长子以外的其他儿子被封为诸侯。诸侯对天子而言是小宗，但在他的封国内却是大宗。诸侯的其它儿子被分封为卿大夫。卿大夫对诸侯而言是小宗，但在他的采邑内却是大宗。从卿大夫到士也是如此。因此贵族的嫡长子总是不同等级的大宗（宗子）。大宗不仅享有对宗族成员的统治权，而且享有政治上的特权。后来，各王朝的统治者对宗法制度加以改造，逐渐建立了由政权、族权、神权、夫权组成的封建宗法制。</Text>
     </Replace>
 
@@ -445,7 +445,7 @@
     <Replace Tag="LOC_CIVIC_LI_YUE_QUOTE_AUTHOR" Language="zh_Hant_HK">
       <Text>《礼记》</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ZHOU_LI_YUE_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ALLAG_LI_YUE_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
       <Text>礼乐制是周代文化的集中体现，它既是典章制度的总汇，又是人们各种行为的准则。周武王灭商后，西周统治者为巩固自己的统治，建立稳定的政治制度，支撑周朝天下的有四大制度：封建制（分封制）、井田制、宗法制、礼乐制。</Text>
     </Replace>
 
@@ -458,20 +458,20 @@
     <Replace Tag="LOC_CIVIC_BAI_JIA_ZHENG_MING_QUOTE_AUTHOR" Language="zh_Hant_HK">
       <Text>《汉书》</Text>
     </Replace>
-    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ZHOU_BAI_JIA_ZHENG_MING_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+    <Replace Tag="LOC_PEDIA_PAGE_NODE_CIVIC_AQ_ALLAG_BAI_JIA_ZHENG_MING_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
       <Text>春秋战国时代，社会急剧变化，许多问题亟待解决。至战国时期，社会产生了各种思想流派，如儒、法、道、墨等，他们著书讲学，互相论战，出现了学术上的繁荣景象，后世称为百家争鸣。</Text>
     </Replace>
 
-    <Replace Tag="LOC_MOD_AQ_ZHOU_FEN_FENG_SETTLEMENT_CAP_INCREASE_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_MOD_AQ_ALLAG_FEN_FENG_SETTLEMENT_CAP_INCREASE_DESCRIPTION" Language="zh_Hant_HK">
       <Text>+2定居点上限。</Text>
     </Replace>
-    <Replace Tag="LOC_MOD_AQ_ZHOU_LI_YUE_CAPITAL_CULTURE_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_MOD_AQ_ALLAG_LI_YUE_CAPITAL_CULTURE_DESCRIPTION" Language="zh_Hant_HK">
       <Text>首都10%[icon:YIELD_CULTURE]文化值。</Text>
     </Replace>
-    <Replace Tag="LOC_MOD_AQ_ZHOU_BJZM_LIBRARY_DIPLOMACY_YIELD_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_MOD_AQ_ALLAG_BJZM_LIBRARY_DIPLOMACY_YIELD_DESCRIPTION" Language="zh_Hant_HK">
       <Text>图书馆+1[icon:YIELD_DIPLOMACY]影响力。</Text>
     </Replace>
-    <Replace Tag="LOC_MOD_AQ_ZHOU_BJZM_LIBRARY_SCIENCE_YIELD_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_MOD_AQ_ALLAG_BJZM_LIBRARY_SCIENCE_YIELD_DESCRIPTION" Language="zh_Hant_HK">
       <Text>图书馆+1[icon:YIELD_SCIENCE]科技值。</Text>
     </Replace>
 
@@ -499,22 +499,22 @@
 
 
     <!-- config -->
-    <Replace Tag="LOC_CIVILIZATION_ZHOU_CHINA_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_CIVILIZATION_ALLAGAN_EMPIRE_DESCRIPTION" Language="zh_Hant_HK">
       <Text>文化值建筑从城区获得+2[icon:YIELD_CULTURE]文化值和+2[icon:YIELD_HAPPINESS]幸福值相邻加成。</Text>
     </Replace>
 
-    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_ZHOU_CHINA" Language="zh_Hant_HK">
+    <Replace Tag="LOC_LOADING_CIV_INTRO_TEXT_ALLAGAN_EMPIRE" Language="zh_Hant_HK">
       <Text>周朝（公元前1046年—公元前256年）是由周武王姬发建立的王朝，中国历史上继商朝之后的第三个奴隶制国家。分为西周（公元前1046年—公元前771年）与东周（公元前770年—公元前256年）两个时期，凡790年，共经历37个君王。</Text>
     </Replace>
-    <Replace Tag="LOC_LOADING_INTRO_ZHOU_CHINA" Language="zh_Hant_HK">
+    <Replace Tag="LOC_LOADING_INTRO_ALLAGAN_EMPIRE" Language="zh_Hant_HK">
       <Text>西周是中华文明进程中十分关键的时期，以分封制、宗法制、礼乐制为特征的文明形态，以周天子为核心的天下共主的国家结构，进一步强化了夏商以来的中央集权制度，为秦汉统一多民族国家的形成奠定了坚实基础。</Text>
     </Replace>
 
   
-    <Replace Tag="LOC_UNLOCK_PLAY_AS_ZHOU_CHINA_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_ALLAGAN_EMPIRE_DESCRIPTION" Language="zh_Hant_HK">
       <Text>扮演[B]周朝[/B]。</Text>
     </Replace>
-    <Replace Tag="LOC_UNLOCK_PLAY_AS_ZHOU_CHINA_MING_TOOLTIP" Language="zh_Hant_HK">
+    <Replace Tag="LOC_UNLOCK_PLAY_AS_ALLAGAN_EMPIRE_MING_TOOLTIP" Language="zh_Hant_HK">
       <Text>[B]周朝[/B]是[B]明朝[/B]诞生前的当地文明。</Text>
     </Replace>
     

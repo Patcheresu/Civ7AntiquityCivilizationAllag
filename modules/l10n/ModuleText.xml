@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Database>
   <LocalizedText>
-    <Replace Tag="LOC_MODULE_ZHOU_CHINA_DESCRIPTION" Language="zh_Hans_CN">
+    <Replace Tag="LOC_MODULE_ALLAGAN_EMPIRE_DESCRIPTION" Language="zh_Hans_CN">
       <Text>包含古典时代新文明周朝。</Text>
     </Replace>
-    <Replace Tag="LOC_MODULE_ZHOU_CHINA_NAME" Language="zh_Hans_CN">
+    <Replace Tag="LOC_MODULE_ALLAGAN_EMPIRE_NAME" Language="zh_Hans_CN">
       <Text>中国周朝</Text>
     </Replace>
-	<Replace Tag="LOC_MODULE_ZHOU_CHINA_AUTHOR" Language="zh_Hans_CN">
+	<Replace Tag="LOC_MODULE_ALLAGAN_EMPIRE_AUTHOR" Language="zh_Hans_CN">
       <Text>枫叶(Maple_Leaves)</Text>
     </Replace>
-    <Replace Tag="LOC_MODULE_ZHOU_CHINA_DESCRIPTION" Language="zh_Hant_HK">
+    <Replace Tag="LOC_MODULE_ALLAGAN_EMPIRE_DESCRIPTION" Language="zh_Hant_HK">
       <Text>包含新的古典時代文明「周朝」。</Text>
     </Replace>
-    <Replace Tag="LOC_MODULE_ZHOU_CHINA_NAME" Language="zh_Hant_HK">
+    <Replace Tag="LOC_MODULE_ALLAGAN_EMPIRE_NAME" Language="zh_Hant_HK">
       <Text>中國周朝</Text>
     </Replace>
-	<Replace Tag="LOC_MODULE_ZHOU_CHINA_AUTHOR" Language="zh_Hant_HK">
+	<Replace Tag="LOC_MODULE_ALLAGAN_EMPIRE_AUTHOR" Language="zh_Hant_HK">
       <Text>枫叶(Maple_Leaves)</Text>
     </Replace>
   </LocalizedText>

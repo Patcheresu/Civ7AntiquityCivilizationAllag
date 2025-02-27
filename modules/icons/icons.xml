@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Database>
 	<IconDefinitions>
-		<!-- Zhou -->
+		<!-- Allag -->
 		<Row>
-			<ID>ICON_CIVILIZATION_ZHOU_CHINA</ID>
+			<ID>ICON_CIVILIZATION_ALLAGAN_EMPIRE</ID>
 			<Path>fs://game/zhou-china/textures/civ_sym_zhou.png</Path>
 		</Row>
 		<Row>
-			<ID>CIVILIZATION_ZHOU_CHINA</ID>
+			<ID>CIVILIZATION_ALLAGAN_EMPIRE</ID>
 			<Path>fs://game/zhou-china/textures/civ_sym_zhou.png</Path>
 		</Row>
 		<Row>
-			<ID>CIVILIZATION_ZHOU_CHINA</ID>
+			<ID>CIVILIZATION_ALLAGAN_EMPIRE</ID>
 			<Context>BACKGROUND</Context>
 			<Path>fs://game/zhou-china/textures/lsbg_zhou_1080.png</Path>
 			<IconSize>1080</IconSize>
 		</Row>
 		<Row>
-			<ID>CIVILIZATION_ZHOU_CHINA</ID>
+			<ID>CIVILIZATION_ALLAGAN_EMPIRE</ID>
 			<Context>BACKGROUND</Context>
 			<Path>fs://game/zhou-china/textures/lsbg_han_720.png</Path>
 			<IconSize>720</IconSize>
@@ -35,57 +35,57 @@
 
 		<!-- units -->
 		<Row>
-			<ID>UNIT_ZHOU_CHARIOT</ID>
+			<ID>UNIT_ALLAG_CHARIOT</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_chariot.png</Path>
 		</Row>
 		<Row>
-			<ID>UNIT_ZHOU_CHARIOT_2</ID>
+			<ID>UNIT_ALLAG_CHARIOT_2</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_chariot.png</Path>
 		</Row>
 
 		<Row>
-			<ID>UNIT_ZHOU_THINKER</ID>
+			<ID>UNIT_ALLAG_THINKER</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_thinker.png</Path>
 		</Row>
 		<Row>
-			<ID>UNIT_ZHOU_THINKER_LAOZI</ID>
+			<ID>UNIT_ALLAG_THINKER_LAOZI</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_thinker.png</Path>
 		</Row>
 		<Row>
-			<ID>UNIT_ZHOU_THINKER_MENCIUS</ID>
+			<ID>UNIT_ALLAG_THINKER_MENCIUS</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_thinker.png</Path>
 		</Row>
 		<Row>
-			<ID>UNIT_ZHOU_THINKER_MOZI</ID>
+			<ID>UNIT_ALLAG_THINKER_MOZI</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_thinker.png</Path>
 		</Row>
 		<Row>
-			<ID>UNIT_ZHOU_THINKER_SHANG_YANG</ID>
+			<ID>UNIT_ALLAG_THINKER_SHANG_YANG</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_thinker.png</Path>
 		</Row>
 
 		<Row>
-			<ID>UNIT_ZHOU_THINKER_GONGSUN_LONG</ID>
+			<ID>UNIT_ALLAG_THINKER_GONGSUN_LONG</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_thinker.png</Path>
 		</Row>
 		<Row>
-			<ID>UNIT_ZHOU_THINKER_ZOU_YAN</ID>
+			<ID>UNIT_ALLAG_THINKER_ZOU_YAN</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_thinker.png</Path>
 		</Row>
 		<Row>
-			<ID>UNIT_ZHOU_THINKER_GUIGUZI</ID>
+			<ID>UNIT_ALLAG_THINKER_GUIGUZI</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_thinker.png</Path>
 		</Row>
 		<Row>
-			<ID>UNIT_ZHOU_THINKER_LV_BUWEI</ID>
+			<ID>UNIT_ALLAG_THINKER_LV_BUWEI</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_thinker.png</Path>
 		</Row>
 		<Row>
-			<ID>UNIT_ZHOU_THINKER_XU_XING</ID>
+			<ID>UNIT_ALLAG_THINKER_XU_XING</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_thinker.png</Path>
 		</Row>
 		<Row>
-			<ID>UNIT_ZHOU_THINKER_SUN_WU</ID>
+			<ID>UNIT_ALLAG_THINKER_SUN_WU</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_thinker.png</Path>
 		</Row>
 
@@ -97,12 +97,12 @@
 
 		<!-- modifier -->
 		<Row>
-			<ID>MOD_SETTLEMENT_LIMIT_ZHOU_CHINA</ID>
+			<ID>MOD_SETTLEMENT_LIMIT_ALLAGAN_EMPIRE</ID>
 			<Path>fs://game/unlock_settlementlimit</Path>
 			<IconSize>256</IconSize>
 		</Row>
 		 <Row>
-			<ID>MOD_TILE_YIELD_BONUS_ZHOU_CHINA</ID>
+			<ID>MOD_TILE_YIELD_BONUS_ALLAGAN_EMPIRE</ID>
 			<Path>fs://game/unlock_tile</Path>
 			<IconSize>256</IconSize>
 		</Row>
@@ -119,12 +119,12 @@
 
 		<!--Antiquity Civ Unique Civic Unlocks-->
 
-		<Row ID="MOD_AQ_ZHOU_FEN_FENG_SETTLEMENT_CAP_INCREASE" OtherID="MOD_SETTLEMENT_LIMIT_ZHOU_CHINA"/>
+		<Row ID="MOD_AQ_ALLAG_FEN_FENG_SETTLEMENT_CAP_INCREASE" OtherID="MOD_SETTLEMENT_LIMIT_ALLAGAN_EMPIRE"/>
 
-		<Row ID="MOD_AQ_ZHOU_LI_YUE_CAPITAL_CULTURE" OtherID="MOD_TILE_YIELD_BONUS_ZHOU_CHINA"/>
+		<Row ID="MOD_AQ_ALLAG_LI_YUE_CAPITAL_CULTURE" OtherID="MOD_TILE_YIELD_BONUS_ALLAGAN_EMPIRE"/>
 
-		<Row ID="MOD_AQ_ZHOU_BJZM_LIBRARY_SCIENCE_YIELD" OtherID="MOD_TILE_YIELD_BONUS_ZHOU_CHINA"/>
-		<Row ID="MOD_AQ_ZHOU_BJZM_LIBRARY_DIPLOMACY_YIELD" OtherID="MOD_TILE_YIELD_BONUS_ZHOU_CHINA"/>
+		<Row ID="MOD_AQ_ALLAG_BJZM_LIBRARY_SCIENCE_YIELD" OtherID="MOD_TILE_YIELD_BONUS_ALLAGAN_EMPIRE"/>
+		<Row ID="MOD_AQ_ALLAG_BJZM_LIBRARY_DIPLOMACY_YIELD" OtherID="MOD_TILE_YIELD_BONUS_ALLAGAN_EMPIRE"/>
 
   </IconAliases>
 
